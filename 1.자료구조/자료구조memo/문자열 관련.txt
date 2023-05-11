@@ -1,0 +1,80 @@
+
+문자열 문제의 유형 - 2가지
+    1. 단순 구현 문제
+    2. 소재만 string인 다른 알고리즘 문제
+
+1번이 포인트 --> String 유형의 함수만 잘 알면 문제 없이 풀어낼 수 있다
+
+
+<< String 관련 함수 >>
+
+더하기, 곱하기, 포멧팅, 인덱싱
+1. str1 + str2
+2. str2 * 5
+
+3. 길이 구하기
+    len(str)
+
+4. 수정하기
+    1) replace 이용하기
+        str = str.replace('ele', 'changeele', 3)
+            ** return 값 주의
+            ** 찾아서 변경하고 싶은 문자열이 없을 때; 그냥 아무일 없이 지나감
+            ** 대소문자 구분함
+    (w.f) indexing을 이용한 수정 불가능
+        str[0] = "?"
+        --> TypeError: 'str' object does not support item assignment
+            이런 에러가 뜨는데
+            str은 애초에 한번 선언되면 수정이 불가능하기 때문이다.
+            replace()의 return 값이 저렇게 되는 것도 이러한 이유인가 보다  
+
+5. 삭제하기
+    1) 제일 앞 or 뒤 - 인덱싱 이용하기
+        str = str[1:]
+        str = str[:-1]
+    2) replace 이용하기
+        str = str.replace('ele', "")
+            ** return 값 주의
+            ** 찾아서 변경하고 싶은 문자열이 없을 때; 그냥 아무일 없이 지나감
+            ** 대소문자 구분함
+
+6. 탐색하기
+    1) str.index('ele')
+        ele가 str 안에 없으면 ValueError
+    2) str.find('ele')
+        ele가 str 안에 없으면 -1 return
+
+7. 문자열 쪼개기
+    str.split()
+    str.split('구분자')
+    str.split('구분자', 분할횟수)
+    str.split(sep='구분자', maxsplit=분할횟수)
+
+        ** str.split()[0] 이런식으로 indexing이 가능하다
+        ** return값 : 나눈 값을 담은 list
+
+8. 문자열 합치기
+    str.join(iteral)
+    "".join(['a', 'b', 'c', 'd'])
+    ",".join("abcd")  --> "a,b,c,d" 이렇게 출력됨
+
+[공백 없애기]
+    str.strip()
+    str.lstrip()
+    str.rstrip()
+
+[대문자 소문자 전환]
+    str.upper()
+    str.lower()
+    str.title()
+    str.capitalize()
+    str.swapcase()
+
+[정규표현식 ㅎ]
+    str.isdigit() - 숫자 확인
+    str.isalpha() - 영어, 한글 확인
+    str.isupper() - 영어 대문자 확인
+    str.islower() - 영어 소문자 확인
+    str.isalnum() - 영어, 한글, 숫자 확인
+        param - x
+        return - boolean
