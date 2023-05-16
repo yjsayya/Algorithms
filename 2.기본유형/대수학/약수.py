@@ -17,7 +17,7 @@ def getDivisors(n):
             if n // i != i:
                 divs.append(n // i)
         i += 1
-    # 필요하면 - divs.sort()
+    divs.sort()
     return divs
 
 # 약수 총합 반환
@@ -32,5 +32,18 @@ def getSumOfDivisors(n):
         i += 1
     return sum 
 
+# 약수 개수 반환
+def getNumOfDivisors(n):
+    cnt = 0
+    i = 1
+    while i * i <= n:
+        if n % i == 0:
+            cnt += 1
+            if n // i != i:
+                cnt += 1
+        i += 1
+    return cnt
+
 print(getDivisors(12))
 print(getSumOfDivisors(12))
+print(getNumOfDivisors(12))
