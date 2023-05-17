@@ -1,0 +1,38 @@
+
+<< 우선순위 큐 - Priority Queue >>
+
+큐와 달리 들어오는 순서가 아니라
+- 우선순위가 높은 데이터를 pop() 하는 자료구조
+- 그래서 한번 pop() 하고 나면 자체적으로 다시 정렬하게 된다
+- 이 때 정렬하는 방식은 heap 방식을 이용한다고 한다
+- 시간 복잡도
+    삽입/삭제 : O(logN)
+
+
+   {활용}
+
+    1. 선언
+   from queue import PriorityQueue
+
+   pq = PriorityQueue()
+   pq = PriorityQueue(maxsize=10)    --> 이렇게 최대길이 지정 가능
+
+   2. 삽입
+       pq.put((우선순위, 'ele'))
+            pq.put((1, "hello"))
+            pq.put((2, "hi"))
+                --> tuple을 param 값으로 넣어주면 이런식으로 우선 순위를 지정해줄 수도 있는 듯
+            pq.put('ele')
+                --> 이렇게 그냥 넣어도 된다
+                --> 오름차순으로 저장이 된다
+
+    3. 반환 및 삭제
+   pq.get()
+   pq.get()[1]
+        --> 반환과 동시에 삭제가 된다
+        --> 우선 순위를 넣었으면 우선순위 정한 값으로 빼면 된다
+        --> return 값은 tuple에서의 value값이 반환 되는 듯
+        --> 우선순위를 따로 안 넣었다면 오름차순으로 반환함
+
+    4. pq.qsize() --> 길이 구하기
+
