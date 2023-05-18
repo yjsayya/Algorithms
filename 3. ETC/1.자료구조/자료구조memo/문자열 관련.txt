@@ -3,10 +3,25 @@
     1. 단순 구현 문제
     2. 소재만 string인 다른 알고리즘 문제
 
-1번이 포인트 --> String 유형의 함수만 잘 알면 문제 없이 풀어낼 수 있다
+
+더하기
+곱하기
+포멧팅
+CRUD
+    create - x
+    Read - 
+    Update - 
+    Delete - 
+
+
+
 
 
 << String 관련 함수 >>
+* str에도 idx를 통해서 접근을 할 수 있다
+* python에서는 str을 iterable로 취급
+* str은 기본적으로 수정이라는 것이 불가능하다!!
+
 
 더하기, 곱하기, 포멧팅, 인덱싱
 1. str1 + str2
@@ -19,7 +34,7 @@
     1) replace 이용하기
         str = str.replace('ele', 'changeele', 3)
             ** return 값 주의
-            ** 찾아서 변경하고 싶은 문자열이 없을 때; 그냥 아무일 없이 지나감
+            ** 찾아서 변경하고 싶은 문자열이 없을 때; 그냥 아무일 없이 지나감(에러 안남)
             ** 대소문자 구분함
     (w.f) indexing을 이용한 수정 불가능
         str[0] = "?"
@@ -78,3 +93,21 @@
     str.isalnum() - 영어, 한글, 숫자 확인
         param - x
         return - boolean
+
+
+특정 ele 조회
+    1) str.count(ele)
+    2) str.count(ele, idx)
+    3) str.count(ele, idx1, idx2)
+
+    1) str.find(ele)
+    2) str.find(ele, idx)
+    3) str.find(ele, idx1, idx2)
+
+    1) str.rfind(ele)
+    2) str.rfind(ele, idx)
+    3) str.rfind(ele, idx1, idx2)
+
+
+
+''.join(iter)
