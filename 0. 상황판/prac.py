@@ -1,31 +1,20 @@
+def solution(want, number, discount):
+    
+    cnt = 0
+    pro = dict()
+    
+    for i,j in zip(want, number):
+        pro[i] = j
+    
+    for i in range(10, len(discount)+1):
+        check = True
+        for j in pro:
+            if discount[i-10:i].count(j) < pro[j]:
+                check = False
+                break
+        if check:
+            cnt += 1
+    return cnt
 
 
-# dic = dict()
-# li = [1,2,3,4,5]
-# se = {1,2,3,4}
-# tu = (1,2,3,4,5)
-# dic[0] = "zero"
-# dic[1] = "one"
-# dic[2] = "two"
-# dic[3] = "three"
-# dic[4] = "four"
-# dic[5] = "five"
-# dic[6] = "six"
-
-# print(dic)
-
-# print("se : ", end=' ')
-# print(se)
-# print(max(se))
-# print(min(se))
-# print("li : ", end=" ")
-# print(li)
-# print(max(li))
-# print(min(li))
-
-
-li = [1,2,3,4,5]
-
-li[5] = 4
-
-print(li)
+print(solution(["banana", "apple", "rice", "pork", "pot"], [3, 2, 2, 2, 1], ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]))
