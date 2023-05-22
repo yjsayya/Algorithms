@@ -7,7 +7,7 @@
 # 첫번째 풀이 --> 개 ㅈㄹ을 해서 삼중 for문으로 풀었는데
     # 테스트 케이스 1번만 시간 초과가 되었다.
 from itertools import combinations as comb
-def solution(clothes):
+def solution1(clothes):
     
     dic = dict()
     cnt = 0
@@ -32,3 +32,8 @@ def solution(clothes):
         cnt += tot
             
     return cnt
+
+
+# 두번째 풀이 --> 이제 시간복잡도 조금만 더 고민해야한다
+# 
+
