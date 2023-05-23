@@ -1,20 +1,22 @@
-def solution(want, number, discount):
-    
-    cnt = 0
-    pro = dict()
-    
-    for i,j in zip(want, number):
-        pro[i] = j
-    
-    for i in range(10, len(discount)+1):
-        check = True
-        for j in pro:
-            if discount[i-10:i].count(j) < pro[j]:
-                check = False
-                break
-        if check:
-            cnt += 1
-    return cnt
 
 
-print(solution(["banana", "apple", "rice", "pork", "pot"], [3, 2, 2, 2, 1], ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]))
+
+for i in range(1,11):
+    print(i)
+
+
+A = [1,2,3,4,5,6]
+B = [2,3,4,5,6,7]
+
+for a,b in zip(A,B):
+    print(a*b)
+
+C = [[1,2], [2,3], [3,4]]
+
+for i,j in C:
+    print(i + j)
+
+D = [1,2,3,4,5,6,7,8]
+
+for idx, ele in enumerate(D):
+    print(idx, ele)
