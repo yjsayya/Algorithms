@@ -1,22 +1,16 @@
+from heapq import *
 
+li = []
+answer = 0
 
+n = int(input())
+for i in range(n):
+    heappush(li, int(input()))
 
-for i in range(1,11):
-    print(i)
+while len(li) != 1:
+    a = heappop(li)
+    b = heappop(li)
+    answer += a+b
+    heappush(li, a+b)
 
-
-A = [1,2,3,4,5,6]
-B = [2,3,4,5,6,7]
-
-for a,b in zip(A,B):
-    print(a*b)
-
-C = [[1,2], [2,3], [3,4]]
-
-for i,j in C:
-    print(i + j)
-
-D = [1,2,3,4,5,6,7,8]
-
-for idx, ele in enumerate(D):
-    print(idx, ele)
+print(answer)
