@@ -184,3 +184,7 @@ pyrightconfig.json
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+hi.html
+
+스크린샷*
+Screensho*
