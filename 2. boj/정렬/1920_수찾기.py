@@ -51,13 +51,3 @@ for i in range(m):
 
 
 
-def binary_search(i):
-    idx_first = 0
-    idx_end = n-1
-
-    while idx_first <= idx_end:
-        idx_mid = (idx_first + idx_end) // 2
-        if A[idx_mid] == i:
-            return True
-        
-        if i < 
