@@ -1,12 +1,7 @@
 # 브론즈 2
 
 n = int(input())
-li = []
+li = [int(input()) for _ in range(n)]
 
-for _ in range(n):
-    li.append(int(input()))
-
-li.sort()
-
-for i in li:
+for i in sorted(li):
     print(i, end=" ")
