@@ -12,7 +12,3 @@ while num >= i:
     i += 1
 
 print(max(se))
-
-'''
-왜 잔디가 안 심어지지? 
-'''
