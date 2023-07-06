@@ -27,7 +27,7 @@ def solution(X, Y):
 
 # 두번째 풀이
     # 9부터 시작하면 정렬하는 것도 안 해줘도 된다!!
-def solution(X, Y):
+def solution2(X, Y):
     
     answer = []
     num = '9876543210'
