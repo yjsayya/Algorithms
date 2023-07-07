@@ -25,9 +25,9 @@ def getNumberOfPrime(n):
     # 2부터 '에라토스테네스의 체'를 적용
     for i in range(2,n+1):
         if i in numList:
-            num -= set(range(2*i, n+1, i))
+            numList -= set(range(2*i, n+1, i))
 
-    return len(num)
+    return len(numList)
 
 '''
 n이 소수인지 아닌지 판별
@@ -117,7 +117,7 @@ def gcd(a, b):
 
 # 최소공배수
 def lcm(a, b):
-    return a * b // gcd(a, b)
+    return a * b // gcd(a,b)
 
 
 
