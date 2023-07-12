@@ -13,5 +13,5 @@ def solution(nums):
 
 
 # 이 풀이 개 쩔었다 ...
-def solution(ls):
+def solution2(ls):
     return min(len(ls)/2, len(set(ls)))
