@@ -18,9 +18,17 @@ def solution(n):
 
 
 
-# 등차수ㅕㅇㄹ 공식을 통해서 푼 문제
+# 등차수열 공식을 통해서 푼 문제
 def expressions(num):
-    return len([i  for i in range(1,num+1,2) if num % i is 0])
+    return len([i for i in range(1,num+1,2) if num % i is 0])
+
+def hi(num):
+    li = []
+    for i in range(1, num+1, 2):
+        if num % i is 0:
+            li.append(i)
+
+    return len(li)
 
 
 

@@ -14,3 +14,16 @@ def solution(brown, yellow):
 
             if upDown * 2 + side == brown:
                 return [upDown, i+2]
+
+# 두번째 푼 풀이
+def solution2(brown, yellow):
+    if yellow == 1:
+        return [3,3]
+
+    for i in range(1, yellow // 2 + 1):
+        if yellow % i == 0:
+            y_garo = max(i, yellow / i)
+            y_sero = min(i, yellow / i)
+
+            if (y_garo + 2) * 2 + y_sero * 2 == brown:
+                return [y_garo + 2, y_sero + 2]
