@@ -1,27 +1,15 @@
 
 
-a = 1010
+import sys
 
-print("10진수 : " + str(int(str(a),2)))
-print("2진수 : " + (bin(78))[2:])
+aN = int(input())
+A = list(map(int, sys.stdin.readline().split()))
 
-# 10진수는 문자열 "1010"을 정수로 변환할때 변환할 2진수를 넣어서 변환
-# 2진수의 경우 int를 bin()함수로 처리하되 - 리턴 값은 'OB'가 붙는 문자열이니깐
-# bin(78)[2:] 이런 형태로 사용을 해야한다
+bN = int(input())
+B = list(map(int, sys.stdin.readline().split()))
 
-print(bin(78))
-
-# 10진수 --> 2진수
-# ** int형태의 10진수 숫자를 --> '0b'+문자열 형태의 2진수 숫자를 리턴 받는다
-# bin(10진수, 2)
-#     - param : 10진수 문자열
-#     - return : 문자열 '0b~~' (이런 형태로 반환)
-#     - 활용 : int(bin(78)[2:] 이런 식으로 쓰면 된다
-
-# 2진수 --> 10진수
-# ** 문자열 형태의 2진수 숫자를 --> 정수 형태의 10진수 숫자를 반환 받는다
-#     - param1 : 문자열 형태의 2진수 숫자
-#     - param2 : 변환할 n진수 (2진수로 할거니깐 2를 써주면 됨)
-#     - return : 정수 형태의 10진수
-#     - 활용 : 1010 2진수를 --> 10진수로 바꾸고 싶다면..?
-#         a = int("1010", 2)
+for b in B:
+    if b in A:
+        print(1)
+    else:
+        print(0)
