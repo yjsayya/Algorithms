@@ -1,15 +1,34 @@
+search_graph = {
+        1: {2, 3, 4},
+        2: {1, 5, 6},
+        3: {1, 7},
+        4: {1, 8},
+        5: {2, 9},
+        6: {2, 10},
+        7: {3},
+        8: {4},
+        9: {5},
+        10: {6},
+        }
+root = 1
 
+def dfs(graph, root):
+    visitedList = []
+    stack = [root]
 
-import sys
+    while stack:
+        n = stack.pop()
+        if n not in visitedList:
+            visitedList.append(n)
+            stack += graph[n] - set(visitedList)
 
-aN = int(input())
-A = list(map(int, sys.stdin.readline().split()))
+    return visitedList
 
-bN = int(input())
-B = list(map(int, sys.stdin.readline().split()))
+a = 'awefabjev'
+li = [i for i in a]
 
-for b in B:
-    if b in A:
-        print(1)
-    else:
-        print(0)
+from itertools import permutations as perm
+b = perm(li,3)
+
+for i in b:
+    print(i)

@@ -3,9 +3,13 @@
 
 
 === [자주 사용하는 라이브러리] ====================
-Counter
-From itertools import combination as comb
+from collections import Counter
+from itertools import combination as comb
+import sys
+from collections import deque
+from queue import PriorityQueue
 === [문제유형] ====================
+** 이중 배열에 대한 개념 - [[],[],[],[]]
 
 
 === [내장 함수] ====================
@@ -13,6 +17,8 @@ From itertools import combination as comb
 
 === [기본 자료구조] ====================
 list, set, dic, tuple
+
+dic 활용법
 
 === [자료구조] ====================
 1. heapq

@@ -1,39 +1,22 @@
-'''
-    구현 문제인 듯 하다
-    --> 시간복잡도도 별로 걸리지 않게 제한된 수가 많지 않다
-    --> 구현을 얼마나 잘하는지 물어보는 문제인 듯 
-'''
-
-# 첫번째 풀이 --> 개 ㅈㄹ을 해서 삼중 for문으로 풀었는데
-    # 테스트 케이스 1번만 시간 초과가 되었다.
-from itertools import combinations as comb
-def solution1(clothes):
+''' '''
+"""
+    - 전형적인 Hash 문제
+    아이디어 - 모든 의상의 개수를 곱한후 -1하기
     
-    dic = dict()
-    cnt = 0
-    li = []
-    
-    for i,j in clothes:
-        if j in dic:
-            dic[j] += 1
-            continue
-        dic[j] = 1
-    
-    for k in dic.values():
-        li.append(k)    
-    
-    for l in range(1,len(li)+1):
-        tot = 0
-        for m in comb(li,l):
-            mul = 1
-            for n in m:
-                mul *= n
-            tot += mul
-        cnt += tot
-            
-    return cnt
+    dic에 대한 공부 최대한 많이 하자
+"""
 
+# 아주 어렵지 않게 잘 풀었따
+def solution(clothes):
+    clothes_dic = dict()
+    for i in clothes:
+        if i[1] in clothes_dic:
+            clothes_dic[i[1]].append(i[0])
+        else:
+            clothes_dic[i[1]] = [i[0]]
 
-# 두번째 풀이 --> 이제 시간복잡도 조금만 더 고민해야한다
-# 
+    answer = 1
+    for clothes in clothes_dic.keys():
+        answer *= len(clothes_dic[clothes]) + 1
 
+    return answer - 1
