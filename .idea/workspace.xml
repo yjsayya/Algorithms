@@ -5,17 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. boj/그리디/g5_13164_행복유치원.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. boj/문자열/g5_1013_contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. boj/수학/g5_1759_암호만들기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.ProjectEuler/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.ProjectEuler/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.ProjectEuler/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. 상황판/prac2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. 상황판/자료구조/LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0. 상황판/자료구조/Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)/lv2_124나라의숫자.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_스킬트리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/재귀/b2_25501_재귀의귀재.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/정렬/실버/s5_11650_좌표정렬하기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0. 상황판/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Programmers/lv1/lv1(정답률59%이하)/lv1_숫자짝궁.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv1/lv1(정답률59%이하)/lv1_숫자짝궁.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/대수학.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/대수학.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_큰수만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_큰수만들기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. boj/정렬/lv2_가장큰수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b5_10989_수정렬하기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. boj/정렬/브론즈/b1_10989_수정렬하기3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_10814_나이순정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. boj/정렬/실버/s5_10814_나이순정렬.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_1427_소트인사이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. boj/정렬/실버/s5_1427_소트인사이드.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
         <option value="Python Script" />
       </list>
     </option>
@@ -56,15 +61,15 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1. Programmers/대회/PCCP모의고사#!" />
       <recent name="$PROJECT_DIR$/2. boj/문자열" />
-      <recent name="$PROJECT_DIR$/programmers/lv2" />
-      <recent name="$PROJECT_DIR$/자료구조" />
-      <recent name="$PROJECT_DIR$/문제유형" />
-      <recent name="$PROJECT_DIR$/memo" />
+      <recent name="$PROJECT_DIR$/1. Programmers/lv2" />
+      <recent name="$PROJECT_DIR$/0. 상황판" />
+      <recent name="$PROJECT_DIR$/1. Programmers/lv1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.prac2">
+    <configuration name="대수학" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,12 +77,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.ProjectEuler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. 상황판" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.ProjectEuler/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/대수학.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="b1_10989_수정렬하기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.ProjectEuler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/정렬/브론즈" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.ProjectEuler/2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/정렬/브론즈/b1_10989_수정렬하기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="b2_25501_재귀의귀재" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +121,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4.ProjectEuler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/재귀" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.ProjectEuler/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/재귀/b2_25501_재귀의귀재.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,7 +158,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lv2_124나라의숫자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)/lv2_124나라의숫자.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prac2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,7 +193,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/prac.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/prac2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,10 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3" />
-        <item itemvalue="Python.2" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.prac" />
+        <item itemvalue="Python.prac2" />
+        <item itemvalue="Python.lv2_124나라의숫자" />
+        <item itemvalue="Python.b2_25501_재귀의귀재" />
+        <item itemvalue="Python.대수학" />
+        <item itemvalue="Python.b1_10989_수정렬하기3" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +248,17 @@
       <workItem from="1686387817242" duration="12066000" />
       <workItem from="1686893974509" duration="2623000" />
       <workItem from="1688662019284" duration="1271000" />
+      <workItem from="1688663821186" duration="458000" />
+      <workItem from="1688706202220" duration="5502000" />
+      <workItem from="1688744869607" duration="1365000" />
+      <workItem from="1688794302941" duration="2489000" />
+      <workItem from="1688999953055" duration="13639000" />
+      <workItem from="1689163597958" duration="3326000" />
+      <workItem from="1689583340984" duration="8453000" />
+      <workItem from="1689613671923" duration="36394000" />
+      <workItem from="1689905356953" duration="16040000" />
+      <workItem from="1689951845614" duration="5315000" />
+      <workItem from="1690072687220" duration="3169000" />
     </task>
     <servers />
   </component>
@@ -239,42 +278,59 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algo$NDB3_.coverage" NAME="NDB3_숫자카드게임 Coverage Results" MODIFIED="1681121003462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
-    <SUITE FILE_PATH="coverage/Algorithms$g2_3109_.coverage" NAME="g2_3109_빵집 Coverage Results" MODIFIED="1685865272101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/algo$lv0_.coverage" NAME="lv0_구슬을나누는경우의수 Coverage Results" MODIFIED="1680768754858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv0" />
-    <SUITE FILE_PATH="coverage/algo$lv2_.coverage" NAME="lv2_구명보트 Coverage Results" MODIFIED="1681217976186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$b5_2744_.coverage" NAME="b5_2744_대소문자바꾸기 Coverage Results" MODIFIED="1686390356710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
-    <SUITE FILE_PATH="coverage/algo$1181_.coverage" NAME="1181_단어정렬 Coverage Results" MODIFIED="1681259465786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
-    <SUITE FILE_PATH="coverage/algo$prac.coverage" NAME="prac Coverage Results" MODIFIED="1681258979881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_20365_2.coverage" NAME="s3_20365_블로그2 Coverage Results" MODIFIED="1685695521467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
-    <SUITE FILE_PATH="coverage/Algorithms$s5_1439_.coverage" NAME="s5_1439_뒤집기 Coverage Results" MODIFIED="1685859340842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
-    <SUITE FILE_PATH="coverage/Algorithms$g5_1461_.coverage" NAME="g5_1461_도서관 Coverage Results" MODIFIED="1685953674831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_16953_A__B.coverage" NAME="s2_16953_A-&gt;B Coverage Results" MODIFIED="1685861223363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
-    <SUITE FILE_PATH="coverage/Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1688662384755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
-    <SUITE FILE_PATH="coverage/algo$1316_.coverage" NAME="1316_그룹단어체커 Coverage Results" MODIFIED="1680797996204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
-    <SUITE FILE_PATH="coverage/Algorithms$b3_10162_.coverage" NAME="b3_10162_전자레인지 Coverage Results" MODIFIED="1685858341922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1689922732237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/algo$9012_.coverage" NAME="9012_괄호 Coverage Results" MODIFIED="1680799667201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
-    <SUITE FILE_PATH="coverage/Algorithms$s3_13305_.coverage" NAME="s3_13305_주유소 Coverage Results" MODIFIED="1685863927671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
-    <SUITE FILE_PATH="coverage/algo$10798_.coverage" NAME="10798_세로읽기 Coverage Results" MODIFIED="1680850490649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$s5_11650_.coverage" NAME="s5_11650_좌표정렬하기 Coverage Results" MODIFIED="1689922275651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/정렬/실버" />
     <SUITE FILE_PATH="coverage/algo$1744_.coverage" NAME="1744_수를묶어서최댓값만들기 Coverage Results" MODIFIED="1681027965993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$g4_4074_.coverage" NAME="g4_4074_약어 Coverage Results" MODIFIED="1685696429633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$s3_1966_.coverage" NAME="s3_1966_프린터큐 Coverage Results" MODIFIED="1689671592550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/algo$14425_.coverage" NAME="14425_문자열집합 Coverage Results" MODIFIED="1680847086880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/algo$10824_.coverage" NAME="10824_네수 Coverage Results" MODIFIED="1680851134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1690073028310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/algo$4999__.coverage" NAME="4999_아! Coverage Results" MODIFIED="1681101274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$5.coverage" NAME="5 Coverage Results" MODIFIED="1688707897359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
+    <SUITE FILE_PATH="coverage/algo$10820_.coverage" NAME="10820_문자열분석 Coverage Results" MODIFIED="1680852457693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/algo$11720_.coverage" NAME="11720_숫자의합 Coverage Results" MODIFIED="1680805899079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$4.coverage" NAME="4 Coverage Results" MODIFIED="1688707317197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
+    <SUITE FILE_PATH="coverage/Algorithms$.coverage" NAME="대수학 Coverage Results" MODIFIED="1689953709549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/algo$11047_.coverage" NAME="11047_동전개수의최솟값구하기 Coverage Results" MODIFIED="1680885641071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/탐욕알고리즘" />
+    <SUITE FILE_PATH="coverage/Algorithms$g2_3109_.coverage" NAME="g2_3109_빵집 Coverage Results" MODIFIED="1685865272101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms$6.coverage" NAME="6 Coverage Results" MODIFIED="1688708358935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
+    <SUITE FILE_PATH="coverage/algo$lv2_.coverage" NAME="lv2_구명보트 Coverage Results" MODIFIED="1681217976186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
+    <SUITE FILE_PATH="coverage/algo$1181_.coverage" NAME="1181_단어정렬 Coverage Results" MODIFIED="1681259465786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/algo$prac.coverage" NAME="prac Coverage Results" MODIFIED="1681258979881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms$s5_1439_.coverage" NAME="s5_1439_뒤집기 Coverage Results" MODIFIED="1685859340842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms$g5_1461_.coverage" NAME="g5_1461_도서관 Coverage Results" MODIFIED="1685953674831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/algo$1316_.coverage" NAME="1316_그룹단어체커 Coverage Results" MODIFIED="1680797996204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$b3_10162_.coverage" NAME="b3_10162_전자레인지 Coverage Results" MODIFIED="1685858341922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms$s3_13305_.coverage" NAME="s3_13305_주유소 Coverage Results" MODIFIED="1685863927671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms$s2_5397_.coverage" NAME="s2_5397_키로거 Coverage Results" MODIFIED="1689673137530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
+    <SUITE FILE_PATH="coverage/algo$10798_.coverage" NAME="10798_세로읽기 Coverage Results" MODIFIED="1680850490649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$10930_SHA256.coverage" NAME="10930_SHA256 Coverage Results" MODIFIED="1689673365026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/algo$11399_ATM.coverage" NAME="11399_ATM Coverage Results" MODIFIED="1681107232241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$3.coverage" NAME="3 Coverage Results" MODIFIED="1688663291420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/algo$1032_.coverage" NAME="1032_명령프롬프트 Coverage Results" MODIFIED="1681259255364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/algo$2231_.coverage" NAME="2231_분해합 Coverage Results" MODIFIED="1680775134943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/완전탐색" />
-    <SUITE FILE_PATH="coverage/algo$10824_.coverage" NAME="10824_네수 Coverage Results" MODIFIED="1680851134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$b1_10989_3.coverage" NAME="b1_10989_수정렬하기3 Coverage Results" MODIFIED="1689923256494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/정렬/브론즈" />
     <SUITE FILE_PATH="coverage/Algorithms$2.coverage" NAME="2 Coverage Results" MODIFIED="1688662790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_1013_contact.coverage" NAME="g5_1013_contact Coverage Results" MODIFIED="1686221850944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
-    <SUITE FILE_PATH="coverage/algo$4999__.coverage" NAME="4999_아! Coverage Results" MODIFIED="1681101274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$8.coverage" NAME="8 Coverage Results" MODIFIED="1688745389841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/algo$1715_.coverage" NAME="1715_카드정렬하기 Coverage Results" MODIFIED="1680888696158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
-    <SUITE FILE_PATH="coverage/algo$10820_.coverage" NAME="10820_문자열분석 Coverage Results" MODIFIED="1680852457693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$lv1_.coverage" NAME="lv1_과일장수 Coverage Results" MODIFIED="1689138250880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv1/lv1(정답률60%이상)" />
+    <SUITE FILE_PATH="coverage/Algorithms$g2_4195_.coverage" NAME="g2_4195_친구네트워크 Coverage Results" MODIFIED="1689828972982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
+    <SUITE FILE_PATH="coverage/Algorithms$lv2_124.coverage" NAME="lv2_124나라의숫자 Coverage Results" MODIFIED="1690073003746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)" />
+    <SUITE FILE_PATH="coverage/Algorithms$7.coverage" NAME="7 Coverage Results" MODIFIED="1688709918192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/Algorithms$g2_10775_.coverage" NAME="g2_10775_공항 Coverage Results" MODIFIED="1685925112984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$1.coverage" NAME="1 Coverage Results" MODIFIED="1688662620890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
-    <SUITE FILE_PATH="coverage/algo$11720_.coverage" NAME="11720_숫자의합 Coverage Results" MODIFIED="1680805899079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$b2_25501_.coverage" NAME="b2_25501_재귀의귀재 Coverage Results" MODIFIED="1689953714272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/재귀" />
     <SUITE FILE_PATH="coverage/algo$14916_.coverage" NAME="14916_거스름돈 Coverage Results" MODIFIED="1681109425064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
+    <SUITE FILE_PATH="coverage/Algorithms$s2_1874_.coverage" NAME="s2_1874_스택수열 Coverage Results" MODIFIED="1689660354228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/Algorithms$g3_13904_.coverage" NAME="g3_13904_과제 Coverage Results" MODIFIED="1685927401044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/algo$2798_.coverage" NAME="2798_블랙잭 Coverage Results" MODIFIED="1680774159930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/브루트포스" />
     <SUITE FILE_PATH="coverage/algo$1157_.coverage" NAME="1157_단어공부 Coverage Results" MODIFIED="1680796587511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
-    <SUITE FILE_PATH="coverage/algo$11047_.coverage" NAME="11047_동전개수의최솟값구하기 Coverage Results" MODIFIED="1680885641071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/탐욕알고리즘" />
   </component>
 </project>

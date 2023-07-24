@@ -94,9 +94,9 @@ def getNumOfDivisors(n):
         i += 1
     return cnt
 
-print(getDivisors(12))
-print(getSumOfDivisors(12))
-print(getNumOfDivisors(12))
+# print(getDivisors(12))
+# print(getSumOfDivisors(12))
+# print(getNumOfDivisors(12))
 
 
 
@@ -200,14 +200,14 @@ def per(arr,n):
 # =[ 2진수, 10진수 처리 ]======================================================
 a = 1010
 
-print("10진수 : " + str(int(str(a),2)))
-print("2진수 : " + (bin(78))[2:])
+# print("10진수 : " + str(int(str(a),2)))
+# print("2진수 : " + (bin(78))[2:])
 
 # 10진수는 문자열 "1010"을 정수로 변환할때 변환할 2진수를 넣어서 변환
 # 2진수의 경우 int를 bin()함수로 처리하되 - 리턴 값은 'OB'가 붙는 문자열이니깐
 # bin(78)[2:] 이런 형태로 사용을 해야한다
 
-print(bin(78))
+# print(bin(78))
 
 # 10진수 --> 2진수
 # ** int형태의 10진수 숫자를 --> '0b'+문자열 형태의 2진수 숫자를 리턴 받는다
@@ -223,3 +223,66 @@ print(bin(78))
 #     - return : 정수 형태의 10진수
 #     - 활용 : 1010 2진수를 --> 10진수로 바꾸고 싶다면..?
 #         a = int("1010", 2)
+
+# =[ 팩토리얼 구해보기 ]======================================================
+# 재귀함수로 구현을 한번 해봤다 ㅇㅋ
+
+'''
+    이런 재귀 방법의 시간복잡도 : O(n)
+'''
+import sys
+sys.setrecursionlimit(10_000)
+# 기본적으로 파이썬에서 디폴트값을 설정되어있는 값은 재귀 깊이 1000이다 ㅇㅋ
+
+def factorial(n):
+    return n * factorial(n-1) if n!=1 else n
+
+# print(factorial(10))
+
+# 회문을 판별할 수 있는 프로그래밍을 짜보자 ㅇㅋ
+def checkFlip(s):
+    a = len(s)
+    if a % 2 == 0:
+        for i in range(a//2+1):
+            if s[i] != s[a-1-i]:
+                return False
+    else:
+        for i in range(a//2):
+            if s[i] != s[a-i-1]:
+                return False
+    return True
+
+print(checkFlip('roor'))
+print(checkFlip('level'))
+print(checkFlip('qwerty'))
+
+# 이걸 재귀함수로도 풀수가 있는지 모르겠는데???
+def checkFlip1(s):
+    if len(s) <= 1:
+        return True
+
+    if s[0] == s[-1]:
+        return checkFlip1(s[1:-1])
+    else:
+        return False
+
+def func(n):
+    print(n)
+    if n == 1:
+        return n
+
+    if n % 2 == 1:
+        return func(3*n+1)
+    else:
+        return func(n//2)
+
+
+def func1(data):
+    if data == 1:
+        return 1
+    elif data == 2:
+        return 2
+    elif data == 3:
+        return 4
+
+    return func(data-1) + func(data-2) + func(data-3)
