@@ -1,30 +1,28 @@
+''''''
 """
-    스택 문제였는데
-    while문, for문 돌릴때 IndexError 꼭 조심하도록 하자
-    특정 리스트가 비어있을 떄 while문 탈출할수 있도록 해야한다
+    << stack을 이용한 구현문제 >> 
+    - while문, for문 돌릴때 IndexError 꼭 조심하도록 하자
+    - stack이 비어있을 떄 while문 break
 
 """
 
+# 여러번 풀었지만 -- 이게 가장 깔끔하게 푼 풀이인 듯 하다
 n = int(input())
 numList = [int(input()) for _ in range(n)]
+
 stack = []
 ans = []
 
 for i in range(1,n+1):
     stack.append(i)
     ans.append('+')
+    while stack and stack[-1] == numList[0]:
+        stack.pop()
+        ans.append('-')
+        numList.pop(0)
 
-    if len(stack) != 0:
-        while numList[0] == stack[-1]:
-            stack.pop()
-            numList.pop(0)
-            ans.append('-')
-
-            if len(numList) == 0 or len(stack) == 0:
-                break
-
-if numList:
+if stack:
     print("NO")
 else:
-    for k in ans:
-        print(k, end='\n')
+    for i in ans:
+        print(i)
