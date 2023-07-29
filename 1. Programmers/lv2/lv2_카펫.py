@@ -22,3 +22,13 @@ def solution(brown, yellow):
     return answer
 
 print(solution(24,24))
+
+# 두번째 풀이 - 좀더 변수명을 직관적으로 짜려고 했는데 더 지저분한 거 같기도 하고
+def solution(brown, yellow):
+
+    for i in range(1,yellow+1):
+        if yellow % i == 0:
+            yllwGaro = yellow // i
+            yllwSero = i
+            if (yllwGaro+2)*2 + yllwSero*2 == brown:
+                return [yllwGaro+2, yllwSero+2]

@@ -11,3 +11,8 @@ for i in n:
 
 li.sort(reverse=True)
 print(int("".join(li)))
+
+
+# python틱하게 푸려면 -- 이렇게 풀도록 하자
+numList = list(input())
+print("".join(sorted(numList, reverse=True)))

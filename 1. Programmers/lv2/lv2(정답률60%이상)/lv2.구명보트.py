@@ -1,32 +1,33 @@
+''''''
+"""
+   투포인터로 푸는 문제였다
+   - 근데 그냥  
+"""
 
+# 첫번째 풀이 - 시간 초과 + 틀렸다
+# 근데 시간초과는 그렇다쳐도 시부레 왜 틀린건지 모르겠네
 
-
-# 결국 못 풀었다 ...
-def solution(people, limit):
-    
+def solution(people,limit):
+    people.sort(reverse=True)
     cnt = 0
-    people.sort()
-    idx = 1
-    
-    if people[-1] <= (limit/2):
-        n = len(people)
-        if n % 2 == 0:
-            return n // 2
+    while people:
+        if len(people) < 2:
+            cnt += 1
+            people.pop(0)
+        elif people[0] + people[1] > limit:
+            people.pop(0)
+            cnt += 1
         else:
-            return (n // 2) + 1
-        
-    else:
-        for i in range(len(people)):
-            if people[i] > (limit/2):
-                idx = i
-                break
-        if idx % 2 == 0:
-            return len(people[idx:]) + (len(people[:idx])//2)
-        else:
-            return len(people[idx:]) + (len(people[:idx])//2) + 1
+            cnt += 1
+            people.pop(0)
+            people.pop(0)
+
+    return cnt
 
 
-def solution(people, limit):
+
+# 투포인터 풀이1
+def solution2(people, limit):
 
     answer = 0
     people.sort()
@@ -43,10 +44,8 @@ def solution(people, limit):
     return answer
 
 
-
-
-# 투포인터
-def solution(people, limit) :
+# 투포인터 풀이2
+def solution3(people, limit) :
     answer = 0
     people.sort()
 
@@ -58,3 +57,15 @@ def solution(people, limit) :
             answer += 1
         b -= 1
     return len(people) - answer
+
+print(solution3([70, 50, 80, 50], 100))
+
+
+"""
+<< 투포인터 알고리즘(Two Pointer Algorithmn) >>
+    - 정렬된 배열에서
+    - 두개의 포인터를 사용하여 
+    - 특정 조건을 만족하는 요소를 찾는 데 사용되는 알고리즘
+    
+    ** 배열이 이미 정렬이 되어있어야 한다 
+"""
