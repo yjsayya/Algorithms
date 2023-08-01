@@ -2,7 +2,6 @@
 
 """
 
-
 def solution(n, a, b):
     cnt = 0
 
@@ -17,3 +16,12 @@ def solution(n, a, b):
         cnt += 1
 
     return cnt + 1
+
+# 개쩌는 풀이 하나 가져왔다 시부레 ...
+def solution2(n,a,b):
+    answer = 0
+    while a != b:
+        answer += 1
+        a, b = (a+1)//2, (b+1)//2
+
+    return answer

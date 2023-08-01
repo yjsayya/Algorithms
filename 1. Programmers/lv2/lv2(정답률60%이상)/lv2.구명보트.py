@@ -1,12 +1,11 @@
 ''''''
 """
    투포인터로 푸는 문제였다
-   - 근데 그냥  
+   완벽하게 이해했다 시부레 ...
 """
 
 # 첫번째 풀이 - 시간 초과 + 틀렸다
-# 근데 시간초과는 그렇다쳐도 시부레 왜 틀린건지 모르겠네
-
+# 그리디로 풀면 안된다 !!
 def solution(people,limit):
     people.sort(reverse=True)
     cnt = 0
@@ -24,42 +23,20 @@ def solution(people,limit):
 
     return cnt
 
-
-
 # 투포인터 풀이1
 def solution2(people, limit):
 
-    answer = 0
-    people.sort()
-    
-    start = 0 
-    end = len(people) - 1
-    
-    while start <= end:
-        answer += 1
-        if people[start] + people[end] <= limit:
-            start += 1
-        end -= 1
-    
-    return answer
-
-
-# 투포인터 풀이2
-def solution3(people, limit) :
-    answer = 0
     people.sort()
 
-    a = 0
-    b = len(people) - 1
-    while a < b :
-        if people[b] + people[a] <= limit :
-            a += 1
-            answer += 1
-        b -= 1
-    return len(people) - answer
+    ans = 0
+    left, right = 0, len(people)-1
+    while left <= right:
+        ans += 1
+        if people[left] + people[right] <= limit:
+            left += 1
+        right -= 1
 
-print(solution3([70, 50, 80, 50], 100))
-
+    return ans
 
 """
 << 투포인터 알고리즘(Two Pointer Algorithmn) >>
