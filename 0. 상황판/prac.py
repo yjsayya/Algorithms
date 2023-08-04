@@ -1,25 +1,24 @@
+def solution(priorities, location):
 
-# boj 5397
-testcase = int(input())
+    process = []
+    for idx, ele in enumerate(priorities):
+        process.append((ele,idx))
 
-for _ in range(testcase):
-    inputWord = input()
+    priorities.sort()
 
-    stack1 = []
-    stack2 = []
-
-    for word in inputWord:
-        if word == '<':
-            if stack1:
-                stack2.append(stack1.pop())
-        elif word == '>':
-            if stack2:
-                stack1.append(stack2.pop())
-        elif word == '-':
-            if stack1:
-                stack1.pop()
+    cnt = 0
+    maxi = priorities.pop()
+    while True:
+        if process[0][0] == maxi:
+            maxi = priorities.pop()
+            process.pop(0)
+            cnt += 1
+            if process[0][1] == location:
+                break
         else:
-            stack1.append(word)
+            process.append(process.pop(0))
 
-    stack2.reverse()
-    print("".join(stack1) + "".join(stack2))
+    return cnt
+
+print(solution([2, 1, 3, 2], 2))
+print(solution([1,1,9,1,1,1], 0))

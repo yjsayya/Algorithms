@@ -1,0 +1,56 @@
+
+
+<< Python 언어 관련 ... >>
+
+** method 활용 능력
+1. 내장 함수 -
+2. 기본 자료형 - list[], tuple(), set(), dict{}
+        : stack/queue
+3. python에서 기본적으로 지원 하지 않는 특수 자료형 - deque, priorityQueue, heapq
+
+번외 - 자주 쓰는 라이브러리
+    - from itertools import permutations // [순열]
+    - from itertools import combinations // [조합]
+    - from collections import Counter // [counter]
+    - import sys
+    from collections import deque // [deque]
+    from queue import PriorityQueue // [우선순위 큐]
+    from heapq // [힙큐]
+
+
+자주 나오는 유형 정리
+문자열 - 다루기
+구현
+정렬
+DFS/BFS
+투 포인터
+
+
+
+
+==============================================
+스택/큐 - 구현문제
+** 예외처리를 얼마나 잘 처리할 것인가?
+
+재귀호출 --> 이거 꼭 이해해야하는데 굉장히 어렵다 ㅅㅂ
+
+DFS/BFS 개념 잘 이해하도록 하자
+
+
+
+
+
+
+
+
+==============================================
+# 이런 에러가 났을 때;
+ValueError: invalid literal for int() with base 10: ''
+    리스트가 비어있는데 안에 있는 모든 걸 join하라고 하면 뜸
+    li = []
+    answer = "".join(li)
+# 이런 에러가 났을 때;
+ValueError: invalid literal for int() with base 10: ''
+    리스트가 비어있는데 안에 있는 모든 걸 join하라고 하면 뜸
+    li = []
+    answer = "".join(li)
