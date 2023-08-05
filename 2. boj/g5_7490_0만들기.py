@@ -20,11 +20,11 @@ def solve(array,n):
     array.pop()
 
     array.append('+')
-    solve(array, n)
+    solve(array,n)
     array.pop()
 
     array.append('-')
-    solve(array, n)
+    solve(array,n)
     array.pop()
 
 testCases = int(input())
