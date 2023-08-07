@@ -44,11 +44,3 @@ for _ in range(testCases):
         if eval(string.replace(" ", "")) == 0:
             print(string)
         print()
-
-    # 2. 문제에 대한 정의
-
-
-testCase = int(input())
-for _ in range(testCase):
-    n = int(input())
-
