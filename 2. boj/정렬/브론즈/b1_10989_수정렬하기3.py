@@ -45,3 +45,17 @@ for j in range(10001):
     if li[j] != 0:
         for i in range(li[j]):
             print(i)
+
+
+# 계수 정렬
+n = int(input())
+li = [0] * 10_001
+
+for _ in range(n):
+    num = int(input())
+    li[num-1] += 1
+
+for idx,ele in enumerate(li):
+    if ele != 0:
+        for _ in range(ele):
+            print(idx+1)

@@ -31,38 +31,77 @@ global vs nonlocal
 # print(num)
 # method()
 
-tc = int(input())
-
-def solv():
-    global n,answer
-    n = int(input())
-    answer = []
-    select_operator(2,'1')
-    print()
-def select_operator(now,ans):
-    global answer
-    if now == n+1:
-        tmp = ans.replace(' ', '')
-        if eval(tmp) == 0:
-            print(ans)
-        return
-
-    select_operator(now+1,ans+' '+str(now))
-    select_operator(now+1,ans+'+'+str(now))
-    select_operator(now+1,ans+'-'+str(now))
-
-for _ in range(tc):
-    solv()
-
-# =================================================================
-def operator(now,ans):
-    if now == n+1:
+# import sys
+#
+# string = sys.stdin.readline().rstrip()
+# n = int(sys.stdin.readline().rstrip())
+# li = []
+#
+# for _ in range(n):
+#     word = sys.stdin.readline().rstrip().split()
+#     li.append([word[0],int(word[1])])
+#
+# li.sort(key=lambda x : -x[1])
+#
+# ans = 0
+# for i in li:
+#     while i[0] in string:
+#         string = string.replace(i[0], '_'*len(i[0]),1)
+#         ans += i[1]
+#
+# print(ans + len(string) - string.count('_'))
 
 
 
-testCase = int(input())
 
-for _ in range(testCase):
-    n = int(input())
-    ans = []
+# 우테코 1주차 - 7번 문제
 
+def solution(n):
+    # 1. 자릿수 먼저 구하기
+    idx = 0
+    for i in range(1,n+1):
+        sn = 3*(3**i-1)//2
+        if sn == n:
+            return '4' * i
+        elif sn > n:
+            idx = i
+            break
+    # 2. 해당 자리에서 몇번째 인가?
+    cnt = n - (3*(3**(idx-1) -1)//2)
+
+    # 3. 이제 구하자
+
+
+
+
+# 1-3 : 한자리
+# 4-12 : 두자리
+# 13 - 40: 세자리
+
+print(solution(14))
+print(solution(15))
+print(solution(38))
+print(solution(39))
+
+
+
+
+# 3, 9 27 81
+
+# 1,2,4
+#
+# 11,12,14
+# 21 22 24
+# 41 42 44
+
+# 111 112 114
+# 121 122 124
+# 141 142 144
+
+# 211 212 214
+# 221 222 224
+# 241 242 244
+
+# 411 412 414
+# 421 422 424
+# 441 442 444
