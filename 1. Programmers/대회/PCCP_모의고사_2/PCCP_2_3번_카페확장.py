@@ -29,3 +29,28 @@ def solution(menu,order,k):
             break
 
     return max(ans)
+
+
+from collections import deque
+
+def solution2(menu,order,k):
+    ans = 0
+    n = len(order)
+    dq = deque()
+    i = 0
+    time = 0
+
+    while dq or i < n:
+        if not dq:
+            time = i*k + menu[order[i]]
+            i += 1
+        else:
+            x = dq.popleft()
+            time += menu[x]
+
+        while i < n and i <= ((time-1)//k):
+            dq.append(order[i])
+            i += 1
+        ans = max(ans, len(dq))
+
+    return ans + 1

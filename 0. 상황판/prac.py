@@ -1,17 +1,31 @@
 
-# 타겟 넘버
+def solution(s):
+    dic = {
+        'one':'1',
+        'two': '2',
+        'three': '3',
+        'four': '4',
+        'five': '5',
+        'six': '6',
+        'seven': '7',
+        'eight': '8',
+        'nine': '9',
+        'zero': '0',
+    }
 
-def dfs(numbers,target,depth):
-    ans = 0
-    if depth == len(numbers):
-        return 1 if sum(numbers) == target else 0
-    else:
-        ans += dfs(numbers,target, depth+1)
-        numbers[depth] *= -1
-        ans += dfs(numbers,target,depth+1)
+    for i in dic:
+        if i in s:
+            s = s.replace(i,dic[i])
 
-        return ans
-def solution(numbers,target):
-    answer = dfs(numbers,target,0)
-    return answer
+    return int(s)
 
+
+# one
+two
+three
+four
+five
+six
+seven
+eight
+nine

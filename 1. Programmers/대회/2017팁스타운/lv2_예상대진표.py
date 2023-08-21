@@ -27,7 +27,7 @@ def solution(n,a,b):
 
 
 
-def solution(n,a,b):
+def solution2(n,a,b):
     
     cnt = 0
 
@@ -42,3 +42,4 @@ def solution(n,a,b):
         cnt += 1
 
     return cnt + 1
+
