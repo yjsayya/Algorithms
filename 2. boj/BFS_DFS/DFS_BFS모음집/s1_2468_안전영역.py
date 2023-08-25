@@ -18,7 +18,6 @@ def sink_dfs(x,y,h):
             isSink_table[nx][ny] = True
             sink_dfs(nx,ny,h)
 
-
 n = int(sys.stdin.readline())
 graph = [list(map(int,sys.stdin.readline().rstrip().split())) for _ in range(n)]
 
