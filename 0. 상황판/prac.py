@@ -18,3 +18,7 @@ a = li[1]
 
 li[2] = 4
 
+print(type(max(string1)))
+
+print(max(string1))
+print(max(string2))

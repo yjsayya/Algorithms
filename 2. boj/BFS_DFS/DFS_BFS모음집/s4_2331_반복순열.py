@@ -1,12 +1,10 @@
 """"""
 """
     dfs/bfs 추천문제 (4)
-    
-    -- 이거 나중에 다시 한번 풀어보자
-    -- 조금 더 코드를 정리할 수 있을 것 같은데
-    정리가 안되네 시부레 일단 넘어 간다 
+    다시 풀어보니깐 - 너무 dfs로 풀려고 틀 안에서 생각했던 것 같다
+    두번째 풀이가 훨씬 깔끔한 것 같다
+    그냥 dic으로 풀면 되는거였는데 잘 기억해두도록 하자 
 """
-
 import sys
 a,p = map(int,sys.stdin.readline().rstrip().split())
 
@@ -36,3 +34,30 @@ def recur(n):
 recur(a)
 
 print(len(numList))
+
+
+# 두번째 풀이
+# - 두 번째로 푸니깐 훨씬 낫네
+a,p = map(int,input().split())
+
+def seq(x):
+    ans = 0
+    for i in str(x):
+        ans += int(i)**p
+    return ans
+
+
+dic = {a : 1}
+while dic[a] != 3:
+    a = seq(a)
+    if a in dic:
+        dic[a] += 1
+    else:
+        dic[a] = 1
+
+res = []
+for j in dic:
+    if dic[j] == 1:
+        res.append(j)
+
+print(len(res))

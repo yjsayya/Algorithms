@@ -1,15 +1,25 @@
 
 
-from collections import deque
+a,p = map(int,input().split())
 
-def bfs(x,y):
-    dq = deque()
-    dq.append((x,y))
+def seq(x):
+    ans = 0
+    for i in str(x):
+        ans += int(i)**p
+    return ans
 
-    while dq:
-        x,y = dq.popleft()
 
-        for i in range(4):
-            nx = x + dx[i]
-            ny = y + dy[i]
+dic = {a : 1}
+while dic[a] != 3:
+    a = seq(a)
+    if a in dic:
+        dic[a] += 1
+    else:
+        dic[a] = 1
 
+res = []
+for j in dic:
+    if dic[j] == 1:
+        res.append(j)
+
+print(len(res))
