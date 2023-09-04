@@ -51,43 +51,22 @@ def solution2(sequence,k):
 
 def solution4(sequence, k):
     answers = []
-    sum = 0
+    tot = 0
     l = 0
     r = -1
 
     while True:
-        if sum < k:
+        if tot < k:
             r += 1
             if r >= len(sequence):
                 break
-            sum += sequence[r]
+            tot += sequence[r]
         else:
-            sum -= sequence[l]
+            tot -= sequence[l]
             if l >= len(sequence):
                 break
             l += 1
-        if sum == k:
+        if tot == k:
             answers.append([l, r])
 
     return sorted(answers,key=lambda x: (x[1] - x[0], x[0]))[0]
-
-def solution3(sequence,k):
-    li = []
-    left,right = 0,0
-    tot = sequence[left]
-
-    while True:
-        if tot < k:
-            right += 1
-            if right == len(sequence):
-                break
-            tot += sequence[right]
-        elif tot > k:
-            tot -= sequence[left]
-            if left == len(sequence):
-                break
-            left += 1
-        else:
-            li.append([left,right])
-
-    return sorted(li,key=lambda x: (x[1]-x[0], x[0]))[0]

@@ -1,8 +1,8 @@
 li = [1,2,3,4,5,6,7]
 se = {2,3,4,5,6,7}
 
-string1 = '12345'
-string2 = 'abcdefg'
+string1 = '0123456789'
+string2 = 'abcdefghijklmnopqrs'
 
 dic = {
     "a" : 1,
@@ -10,15 +10,3 @@ dic = {
     "c" : 3,
     "z" : 4
 }
-
-se2 = {5,6,7,8,9}
-
-print(li)
-a = li[1]
-
-li[2] = 4
-
-print(type(max(string1)))
-
-print(max(string1))
-print(max(string2))

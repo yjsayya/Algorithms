@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. boj/수학/b3_2588_곱셈.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/prac2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_연속된부분수열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_연속된부분수열의합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +65,29 @@
       <recent name="$PROJECT_DIR$/1. Programmers/lv2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.g5_7569_토마토">
+  <component name="RunManager" selected="Python.g4_2573_빙산">
+    <configuration name="b3_2588_곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/수학" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/수학/b3_2588_곱셈.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="b5_2744_대소문자바꾸기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g3_1600_말이되고픈원숭이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g4_2573_빙산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +124,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g3_1600_말이되고픈원숭이.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g5_7569_토마토" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g5_7569_토마토_3차원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,7 +146,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1_1389_케빈베이컨의6단계법칙" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g5_7576_토마토_2차원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,7 +168,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_1389_케빈베이컨의6단계법칙.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1_5014_스타트링크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prac2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,34 +185,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. 상황판" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_5014_스타트링크.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s2_2644_촌수계산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s2_2644_촌수계산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/prac2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.g5_7569_토마토" />
-        <item itemvalue="Python.s1_5014_스타트링크" />
-        <item itemvalue="Python.s1_1389_케빈베이컨의6단계법칙" />
-        <item itemvalue="Python.s2_2644_촌수계산" />
-        <item itemvalue="Python.g3_1600_말이되고픈원숭이" />
+        <item itemvalue="Python.g4_2573_빙산" />
+        <item itemvalue="Python.g5_7576_토마토_2차원" />
+        <item itemvalue="Python.g5_7569_토마토_3차원" />
+        <item itemvalue="Python.b3_2588_곱셈" />
+        <item itemvalue="Python.prac2" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +271,8 @@
       <workItem from="1692601419945" duration="13590000" />
       <workItem from="1692700671741" duration="1229000" />
       <workItem from="1692789519127" duration="2506000" />
-      <workItem from="1692870450174" duration="63747000" />
+      <workItem from="1692870450174" duration="98283000" />
+      <workItem from="1693789104325" duration="16419000" />
     </task>
     <servers />
   </component>
@@ -291,7 +299,7 @@
     <SUITE FILE_PATH="coverage/Algorithms$Problem6.coverage" NAME="Problem6 Coverage Results" MODIFIED="1691826579527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ETC/woowa" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_20365_2.coverage" NAME="s3_20365_블로그2 Coverage Results" MODIFIED="1685695521467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_16953_A__B.coverage" NAME="s2_16953_A-&gt;B Coverage Results" MODIFIED="1685861223363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
-    <SUITE FILE_PATH="coverage/Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1693046526868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1693577066242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_10971_2.coverage" NAME="s2_10971_외판원순회2 Coverage Results" MODIFIED="1692951731033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$9012_.coverage" NAME="9012_괄호 Coverage Results" MODIFIED="1680799667201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s5_11650_.coverage" NAME="s5_11650_좌표정렬하기 Coverage Results" MODIFIED="1689922275651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/정렬/실버" />
@@ -300,11 +308,13 @@
     <SUITE FILE_PATH="coverage/algo$1744_.coverage" NAME="1744_수를묶어서최댓값만들기 Coverage Results" MODIFIED="1681027965993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$g4_4074_.coverage" NAME="g4_4074_약어 Coverage Results" MODIFIED="1685696429633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_1966_.coverage" NAME="s3_1966_프린터큐 Coverage Results" MODIFIED="1689671592550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
+    <SUITE FILE_PATH="coverage/Algorithms$g5_7576__2.coverage" NAME="g5_7576_토마토_2차원 Coverage Results" MODIFIED="1693826204249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$14425_.coverage" NAME="14425_문자열집합 Coverage Results" MODIFIED="1680847086880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms$b3_2588_.coverage" NAME="b3_2588_곱셈 Coverage Results" MODIFIED="1693818510714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/수학" />
     <SUITE FILE_PATH="coverage/algo$10824_.coverage" NAME="10824_네수 Coverage Results" MODIFIED="1680851134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_1260_DFSBFS_1_.coverage" NAME="s2_1260_DFS와BFS(1) Coverage Results" MODIFIED="1692954583653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/Algorithms$s1_1389_6.coverage" NAME="s1_1389_케빈베이컨의6단계법칙 Coverage Results" MODIFIED="1693075240593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
-    <SUITE FILE_PATH="coverage/Algorithms$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1693054525540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1693818507750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/algo$4999__.coverage" NAME="4999_아! Coverage Results" MODIFIED="1681101274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s1_1991_.coverage" NAME="s1_1991_트리순회 Coverage Results" MODIFIED="1692002614381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/재귀" />
     <SUITE FILE_PATH="coverage/Algorithms$Problem2.coverage" NAME="Problem2 Coverage Results" MODIFIED="1691863294484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ETC/woowa" />
@@ -328,7 +338,7 @@
     <SUITE FILE_PATH="coverage/algo$prac.coverage" NAME="prac Coverage Results" MODIFIED="1681258979881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$s5_1439_.coverage" NAME="s5_1439_뒤집기 Coverage Results" MODIFIED="1685859340842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_1461_.coverage" NAME="g5_1461_도서관 Coverage Results" MODIFIED="1685953674831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
-    <SUITE FILE_PATH="coverage/Algorithms$g5_7569_.coverage" NAME="g5_7569_토마토 Coverage Results" MODIFIED="1693131514352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+    <SUITE FILE_PATH="coverage/Algorithms$g5_7569_.coverage" NAME="g5_7569_토마토 Coverage Results" MODIFIED="1693822071549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$1316_.coverage" NAME="1316_그룹단어체커 Coverage Results" MODIFIED="1680797996204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$b3_10162_.coverage" NAME="b3_10162_전자레인지 Coverage Results" MODIFIED="1685858341922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_13305_.coverage" NAME="s3_13305_주유소 Coverage Results" MODIFIED="1685863927671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
@@ -342,6 +352,7 @@
     <SUITE FILE_PATH="coverage/Algorithms$Problem4.coverage" NAME="Problem4 Coverage Results" MODIFIED="1691864101810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ETC/woowa" />
     <SUITE FILE_PATH="coverage/algo$2231_.coverage" NAME="2231_분해합 Coverage Results" MODIFIED="1680775134943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/완전탐색" />
     <SUITE FILE_PATH="coverage/Algorithms$b1_10989_3.coverage" NAME="b1_10989_수정렬하기3 Coverage Results" MODIFIED="1689923256494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/정렬/브론즈" />
+    <SUITE FILE_PATH="coverage/Algorithms$g4_2573_.coverage" NAME="g4_2573_빙산 Coverage Results" MODIFIED="1693828222119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/Algorithms$2.coverage" NAME="2 Coverage Results" MODIFIED="1688662790685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/Algorithms$p5_14727_.coverage" NAME="p5_14727_퍼즐자르기 Coverage Results" MODIFIED="1690866187877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/스택큐" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_1013_contact.coverage" NAME="g5_1013_contact Coverage Results" MODIFIED="1686221850944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
