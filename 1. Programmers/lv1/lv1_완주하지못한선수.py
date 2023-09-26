@@ -36,3 +36,17 @@ def solution1(participant, completion):
             del dic[j]
     
     return list(dic)[0]
+
+# 이게 조금 더 좋은 듯 하다 ...
+def solution2(participant, completion):
+
+    dic = dict()
+    for i in participant:
+        dic[i] = 0
+
+    for j in completion:
+        dic[j] += 1
+
+    for k in dic:
+        if dic[k] == 0:
+            return k

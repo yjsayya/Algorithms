@@ -17,4 +17,5 @@ for i in range(n):
     while dq:
         x = dq.popleft()
         for k in range(n):
+            pass
             

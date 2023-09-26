@@ -5,172 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/구현/g5_21608_상어초등학교.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g1_8980_택배.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmers/lv3/lv3_베스트앨범.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/g5_1759_암호만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g5_1092_배.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0. 상황판/prac2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0. 상황판/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/10930_SHA256.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/10930_SHA256.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/BFS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/BFS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g3_1600_말이되고픈원숭이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/g3_1600_말이되고픈원숭이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_1389_케빈베이컨의6단계법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_1389_케빈베이컨의6단계법칙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_1697_숨바꼭질.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_1697_숨바꼭질.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_2178_미로탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_2178_미로탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_2468_안전영역.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_2468_안전영역.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_2667_단지번호붙이기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_2667_단지번호붙이기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s1_5014_스타트링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s1_5014_스타트링크.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s2_10971_외판원순회2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s2_10971_외판원순회2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s2_11724_연결요소의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s2_11724_연결요소의개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s2_1260_DFS와BFS(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s2_1260_DFS와BFS(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s2_2644_촌수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s2_2644_촌수계산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s3_10451_순열사이클.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s3_10451_순열사이클.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s3_2606_바이러스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s3_2606_바이러스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/s4_2331_반복순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/DFS_BFS모음집/s4_2331_반복순열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/NDB_미로탈출(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/NDB_미로탈출(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/NDB_음료수얼려먹기(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/NDB_음료수얼려먹기(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/BFS_DFS/실버/s4_1388_바닥장식.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/실버/s4_1388_바닥장식.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/b1_2748_피보나치수2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/b1_2748_피보나치수2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/b2_2747_피보나치수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/b2_2747_피보나치수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/b2_2920_음계.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/b2_2920_음계.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/g2_2749_피보나치수3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/g2_2749_피보나치수3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/g2_4195_친구네트워크.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/g2_4195_친구네트워크.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/g5_7490_0만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/g5_7490_0만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/s1_1074_Z.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/s1_1074_Z.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/s2_1874_스택수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/s2_1874_스택수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/s2_5397_키로거.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/s2_5397_키로거.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/s3_1966_프린터큐.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/s3_1966_프린터큐.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/b3_10162_전자레인지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/b3_10162_전자레인지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/g2_10775_공항.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g2_10775_공항.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/g2_3109_빵집.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g2_3109_빵집.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/g3_13904_과제.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g3_13904_과제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/g5_13164_행복유치원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g5_13164_행복유치원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/g5_1461_도서관.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/gold/g5_1461_도서관.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/s2_16953_A-&gt;B.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/silver/s2_16953_A-&gt;B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/s3_13305_주유소.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/silver/s3_13305_주유소.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/s3_1783_병든나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/silver/s3_1783_병든나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/그리디/s5_1439_뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/그리디/silver/s5_1439_뒤집기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/1032_명령프롬프트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/1032_명령프롬프트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/10798_세로읽기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/10798_세로읽기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/10820_문자열분석.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/10820_문자열분석.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/10824_네수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/10824_네수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/1157_단어공부.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/1157_단어공부.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/11720_숫자의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/11720_숫자의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/1181_단어정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/1181_단어정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/1316_그룹단어체커.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/1316_그룹단어체커.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/14425_문자열집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/14425_문자열집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/4999_아!.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/4999_아!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/9012_괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/9012_괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/9251_LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/9251_LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/b5_2744_대소문자바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/b5_2744_대소문자바꾸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g4_4074_약어.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g4_4074_약어.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g4_9935_문자열폭발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g4_9935_문자열폭발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g5_1013_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g5_1013_contact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g5_12904_A와B.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g5_12904_A와B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g5_2866_문자열잘라내기.Py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g5_2866_문자열잘라내기.Py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g5_5430_AC.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g5_5430_AC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/g5_9251_LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/g5_9251_LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/s2_1541_잃어버린괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/s2_1541_잃어버린괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/s3_20365_블로그2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/s3_20365_블로그2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/문자열/문자열 관련.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/문자열/문자열 관련.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/10870_피보나치수5.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/10870_피보나치수5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/24416_피보나치수1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/24416_피보나치수1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/b1_2775_부녀회장이될테야.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/b1_2775_부녀회장이될테야.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/b1_4344_평균은넘겠지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/b1_4344_평균은넘겠지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/b3_2525_오븐시계.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/b3_2525_오븐시계.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/b3_2588_곱셈.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/b3_2588_곱셈.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/b5_2753_윤년.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/b5_2753_윤년.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/g5_1759_암호만들기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/g5_1759_암호만들기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/s3_1002_터렛.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/s3_1002_터렛.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/s3_9461_파도반수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/s3_9461_파도반수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/s4_2839_설탕배달.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/s4_2839_설탕배달.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/수학/s5_1193_분수찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/수학/s5_1193_분수찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/스택큐/p4_3111_검열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/스택큐/p4_3111_검열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/재귀/b2_25501_재귀의귀재.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/재귀/b2_25501_재귀의귀재.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/재귀/g5_2447_별찍기10.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/재귀/g5_2447_별찍기10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/재귀/s1_1991_트리순회.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/재귀/s1_1991_트리순회.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/재귀/s5_17478_재귀함수가뭔가요.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/재귀/s5_17478_재귀함수가뭔가요.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/재귀/s5_18511_큰수구성하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/재귀/s5_18511_큰수구성하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/ndb_두배열의원소교체(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/ndb_두배열의원소교체(4).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/ndb_성적이낮은순서로학생출력하기(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/ndb_성적이낮은순서로학생출력하기(3).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/ndb_위에서아래로(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/ndb_위에서아래로(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/골드/g2_2437_저울.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/골드/g2_2437_저울.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/골드/g3_13904_과제.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/골드/g3_13904_과제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/골드/g4_1715_카드정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/골드/g4_1715_카드정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/골드/g5_11000_강의실배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/골드/g5_11000_강의실배정.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/골드/g5_2212_센서.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/골드/g5_2212_센서.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b1_10989_수정렬하기3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/브론즈/b1_10989_수정렬하기3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b1_2309_일곱난쟁이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/브론즈/b1_2309_일곱난쟁이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b2_2750_수정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/브론즈/b2_2750_수정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b3_10817_세수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/브론즈/b3_10817_세수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/브론즈/b4_2752_세수정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/브론즈/b4_2752_세수정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s1_1141_접두사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s1_1141_접두사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s1_1931_회의실배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s1_1931_회의실배정.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s2_2075_N번째큰수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s2_2075_N번째큰수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_1431_시리얼넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_1431_시리얼넘버.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_1449_수리공항승.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_1449_수리공항승.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_18310_안테나.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_18310_안테나.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_20291_파일정리.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_20291_파일정리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_20920_영단어암기는괴로워.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_20920_영단어암기는괴로워.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_2108_통계학.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_2108_통계학.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s3_3273_두수의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s3_3273_두수의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_1026_보물.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_1026_보물.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_10816_숫자카드2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_10816_숫자카드2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_10825_국영수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_10825_국영수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_11656_접미사배열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_11656_접미사배열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_1302_베스트셀러.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_1302_베스트셀러.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_1755_숫자놀이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_1755_숫자놀이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_1764_듣보잡.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_1764_듣보잡.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_1920_수찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_1920_수찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s4_2217_로프.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s4_2217_로프.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_10814_나이순정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_10814_나이순정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_10815_숫자카드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_10815_숫자카드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_11004_K번쨰수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_11004_K번쨰수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_11650_좌표정렬하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_11650_좌표정렬하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_11728_배열합치기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_11728_배열합치기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_1181_단어정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_1181_단어정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_1427_소트인사이드.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_1427_소트인사이드.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_2751_수정렬하기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_2751_수정렬하기2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/실버/s5_5635_생일.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/실버/s5_5635_생일.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/정렬/정렬.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/정렬/정렬.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_scon_숭실대/b1_28115_등차수열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_scon_숭실대/b1_28115_등차수열의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_scon_숭실대/b3_28114_팀명정하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_scon_숭실대/b3_28114_팀명정하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_scon_숭실대/b5_28113_정보섬의대중교통.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_scon_숭실대/b5_28113_정보섬의대중교통.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_서강대_청정수컵_open_contest/28061(A)레몬따기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_서강대_청정수컵_open_contest/28061(A)레몬따기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_서강대_청정수컵_open_contest/28062(B)준석이의사탕사기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_서강대_청정수컵_open_contest/28062(B)준석이의사탕사기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_서강대_청정수컵_open_contest/28063(C)동전복사.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_서강대_청정수컵_open_contest/28063(C)동전복사.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023_서강대_청정수컵_open_contest/28064(D)이민희진.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023_서강대_청정수컵_open_contest/28064(D)이민희진.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023부산대학교CodeRace/28014(A)_첨탑밀어서부수기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023부산대학교CodeRace/28014(A)_첨탑밀어서부수기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023부산대학교CodeRace/28015(B)_영역색칠.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023부산대학교CodeRace/28015(B)_영역색칠.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/2023부산대학교CodeRace/28016(C)_경품추첨.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/2023부산대학교CodeRace/28016(C)_경품추첨.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27959_초코바.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27959_초코바.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27960_사격내기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27960_사격내기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27961_고양이는많을수록좋다.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27961_고양이는많을수록좋다.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27962_오렌지먹은지오랜지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27962_오렌지먹은지오랜지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27963_합금주화 copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27963_합금주화 copy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27964_콰트로치즈피자.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27964_콰트로치즈피자.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27965_N결수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27965_N결수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27966_△.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27966_△.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27967_고추장괄호문자열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27967_고추장괄호문자열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27969_ILOVEJavaScript.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27969_ILOVEJavaScript.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27970_OX.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27970_OX.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/코딩테스트/코딩테스트123/27971_강아지는많을수록좋다.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/코딩테스트/코딩테스트123/27971_강아지는많을수록좋다.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/투포인터/s4_1940_주몽.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/투포인터/s4_1940_주몽.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. boj/투포인터/s4_2003_수들의합2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/투포인터/s4_2003_수들의합2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/DFS/10026_적록색약.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/10026_적록색약.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/DFS/11724_연결요소의개수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/11724_연결요소의개수구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/DFS/2023_신기한소수찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/2023_신기한소수찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/DFS/트리의부모찾기11725.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/BFS_DFS/트리의부모찾기11725.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/3.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/4.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/5.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/6.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4.ProjectEuler/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. ETC/4.ProjectEuler/8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/대수학.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/대수학.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv1/lv1_완주하지못한선수.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv1/lv1_완주하지못한선수.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2.구명보트.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_구명보트.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_귤고르기.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_귤고르기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_멀리뛰기.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_멀리뛰기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_피로도.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_피로도.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_할인행사.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_할인행사.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/진행상황메모.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +70,7 @@
       <recent name="$PROJECT_DIR$/0. 상황판/자료구조" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.g1_8980_택배">
+  <component name="RunManager" selected="Python.prac2">
     <configuration name="b5_2744_대소문자바꾸기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g4_2573_빙산" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g5_1092_배" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/그리디/gold" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/그리디/gold/g5_1092_배.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g5_21608_상어초등학교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="g5_1759_암호만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/구현" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/구현/g5_21608_상어초등학교.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/g5_1759_암호만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="g5_7576_토마토_2차원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lv3_베스트앨범" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1. Programmers/lv3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1. Programmers/lv3/lv3_베스트앨범.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -381,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.g1_8980_택배" />
-        <item itemvalue="Python.g5_21608_상어초등학교" />
         <item itemvalue="Python.prac2" />
-        <item itemvalue="Python.g4_2573_빙산" />
-        <item itemvalue="Python.g5_7576_토마토_2차원" />
+        <item itemvalue="Python.lv3_베스트앨범" />
+        <item itemvalue="Python.g5_1759_암호만들기" />
+        <item itemvalue="Python.g5_1092_배" />
+        <item itemvalue="Python.g1_8980_택배" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +280,10 @@
       <workItem from="1693789104325" duration="39316000" />
       <workItem from="1693991701211" duration="5795000" />
       <workItem from="1694053446080" duration="4605000" />
-      <workItem from="1694414282365" duration="7888000" />
+      <workItem from="1694414282365" duration="9820000" />
+      <workItem from="1695567831365" duration="9277000" />
+      <workItem from="1695687328459" duration="10000" />
+      <workItem from="1695687351753" duration="19464000" />
     </task>
     <servers />
   </component>
@@ -449,6 +300,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1. Programmers/lv3/lv3_베스트앨범.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algo$NDB3_.coverage" NAME="NDB3_숫자카드게임 Coverage Results" MODIFIED="1681121003462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
@@ -467,6 +329,7 @@
     <SUITE FILE_PATH="coverage/Algorithms$s1_2667_.coverage" NAME="s1_2667_단지번호붙이기 Coverage Results" MODIFIED="1692491281624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$1744_.coverage" NAME="1744_수를묶어서최댓값만들기 Coverage Results" MODIFIED="1681027965993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$g4_4074_.coverage" NAME="g4_4074_약어 Coverage Results" MODIFIED="1685696429633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$g5_1759_.coverage" NAME="g5_1759_암호만들기 Coverage Results" MODIFIED="1695605175087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_1966_.coverage" NAME="s3_1966_프린터큐 Coverage Results" MODIFIED="1689671592550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_7576__2.coverage" NAME="g5_7576_토마토_2차원 Coverage Results" MODIFIED="1693826204249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$14425_.coverage" NAME="14425_문자열집합 Coverage Results" MODIFIED="1680847086880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
@@ -484,9 +347,10 @@
     <SUITE FILE_PATH="coverage/algo$11720_.coverage" NAME="11720_숫자의합 Coverage Results" MODIFIED="1680805899079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$g1_8980_.coverage" NAME="g1_8980_택배 Coverage Results" MODIFIED="1694481169782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/그리디/gold" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_11724_.coverage" NAME="s2_11724_연결요소의개수 Coverage Results" MODIFIED="1692949332865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$g5_1092_.coverage" NAME="g5_1092_배 Coverage Results" MODIFIED="1695601229179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/그리디/gold" />
     <SUITE FILE_PATH="coverage/Algorithms$4.coverage" NAME="4 Coverage Results" MODIFIED="1688707317197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/Algorithms$.coverage" NAME="대수학 Coverage Results" MODIFIED="1690772833582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
-    <SUITE FILE_PATH="coverage/Algorithms_python$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1694414491535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1695753560150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_2447_10.coverage" NAME="g5_2447_별찍기10 Coverage Results" MODIFIED="1692003078536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/재귀" />
     <SUITE FILE_PATH="coverage/algo$11047_.coverage" NAME="11047_동전개수의최솟값구하기 Coverage Results" MODIFIED="1680885641071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms$lv2__1_.coverage" NAME="lv2_삼각달팽이(월간코드챌린지시즌1) Coverage Results" MODIFIED="1691148394307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)" />
@@ -539,6 +403,7 @@
     <SUITE FILE_PATH="coverage/Algorithms$s1_2468_.coverage" NAME="s1_2468_안전영역 Coverage Results" MODIFIED="1692877981770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/Algorithms$g3_13904_.coverage" NAME="g3_13904_과제 Coverage Results" MODIFIED="1685927401044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$s4_2331_.coverage" NAME="s4_2331_반복순열 Coverage Results" MODIFIED="1692875327769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$lv3_.coverage" NAME="lv3_베스트앨범 Coverage Results" MODIFIED="1695752381693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv3" />
     <SUITE FILE_PATH="coverage/Algorithms$Tree.coverage" NAME="Tree Coverage Results" MODIFIED="1691316593164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판/자료구조" />
     <SUITE FILE_PATH="coverage/algo$2798_.coverage" NAME="2798_블랙잭 Coverage Results" MODIFIED="1680774159930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/브루트포스" />
     <SUITE FILE_PATH="coverage/algo$1157_.coverage" NAME="1157_단어공부 Coverage Results" MODIFIED="1680796587511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />

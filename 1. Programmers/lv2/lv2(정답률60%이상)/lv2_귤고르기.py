@@ -46,3 +46,22 @@ a = [1, 3, 2, 5, 4, 5, 2, 3]
 counter = Counter(a)
 print(counter)
 print(counter.most_common())
+
+# dict()으로 풀면 시간복잡도 좀 줄일 수 있지
+    # --> 이렇게 풀 수 도 있다
+    # Counter 쓰는 것보다 dict 쓰는게 더 빨랐다!!
+def solution3(k,tangerine):
+
+    dic = dict()
+    for i in tangerine:
+        if i in dic: dic[i] += 1
+        else: dic[i] = 1
+
+    cnt = 0
+    for num in sorted(dic.values(),reverse=True):
+        cnt += 1
+        k -= num
+        if k <= 0:
+            break
+
+    return cnt

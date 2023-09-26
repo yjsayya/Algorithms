@@ -4,7 +4,7 @@
 1. 소수(prime_number)
 2. 약수, 배수, 최소공약수, 최소공배수
 3. 피보나치 수열
-4. 경우의 수 구하기 - 순열, 조합
+4. 경우의 수 구하기 - 순열, 조합, 중복 순열
 5. 이진수, 10진수 처리
 
 '''
@@ -116,7 +116,7 @@ def getNumOfDivisors(n):
 
 
 # 최대공약수
-def gcd(a,b):
+def gcd(a, b):
     while b:
         a, b = b, a % b
     return a
@@ -152,7 +152,8 @@ def fibo(n):
 
 # python 라이브러리 이용하기
 
-from itertools import combinations, permutations
+- from itertools import combinations, permutations
+- import math
 
 1. 순열(Permutations, nPr)
     permutation(iteral, r)
@@ -194,6 +195,16 @@ def per(arr,n):
             perm(arr, n+1)
             arr.pop()
             used[i] = 0
+            
+            
+            
+3. math 라이브러리 기억해두자
+import math
+n,r = 3,1
+nCr = math.comb(n,r)
+nPr = math.perm(n,r)
+
+
 '''
 
 

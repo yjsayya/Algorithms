@@ -1,10 +1,11 @@
-'''
+""""""
+"""
     이중 for문으로 풀긴 했는데, 시간복잡도가 그리 좋아보이진 않는다
     --> range() 숫자 범위 잘 따져서 해야한다
 
     여기선 이중 for문으로 푸는게 맞는 듯하다
     두번째 풀이에서는 Counter 라이브러리를 썼는데 오히려 시간복잡도가 더 좋지 않았다.
-'''
+"""
 
 def solution1(want, number, discount):
     
@@ -37,3 +38,24 @@ def solution2(want, number, discount):
             answer += 1
 
     return answer
+
+# 다시 푼 풀이
+    # 기본적으로 Counter를 활용하는 것보다 dic을 활용하는 것이 훨씬 빠르다!!
+def solution3(want,number,discount):
+
+    dic = dict()
+    for i,j in zip(want,number):
+        dic[i] = j
+
+    res = 0
+    for i in range(10,len(discount)+1):
+        li = discount[i-10:i]
+        check = False
+        for want in dic:
+            if li.count(want) != dic[want]:
+                check = True
+                break
+        if not check:
+            res += 1
+
+    return res
