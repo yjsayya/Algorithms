@@ -1,23 +1,22 @@
 
-import sys
+def solution(prices):
 
-n = int(sys.stdin.readline())
-u = [int(sys.stdin.readline()) for _ in range(n)]
-u.sort()
+    stack = []
+    ans = [-1] * len(prices)
 
-se = set()
-for x in u:
-    for y in u:
-        se.add(x+y)
+    for idx in range(len(prices)):
 
-def check():
-    global ans
-    for i in range(n-1,-1,-1):
-        for j in range(i+1):
-            if u[i] - u[j] in se:
-                ans = u[i]
-                return
+        while stack != [] and stack[-1][1] > prices[idx]:
+            past = stack.pop()[0
+            ans[past] = idx - past
+        stack.append([idx,prices[idx]])
 
-ans = 0
-check()
-print(ans)
+
+
+li = [(0,1),(1,2),(2,3),(3,2),(4,3)]
+
+
+
+
+print(solution([1, 2, 3, 2, 3]))
+# solution("CBD", ["BACDE", "CBADF", "AECB", "BDA"])

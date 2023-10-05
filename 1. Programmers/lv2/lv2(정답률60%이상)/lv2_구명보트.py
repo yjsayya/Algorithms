@@ -23,7 +23,7 @@ def solution(people,limit):
 
     return cnt
 
-# 투포인터 풀이1
+# 투포인터_문자열 풀이1
 def solution2(people, limit):
 
     people.sort()
@@ -39,7 +39,7 @@ def solution2(people, limit):
     return ans
 
 """
-<< 투포인터 알고리즘(Two Pointer Algorithmn) >>
+<< 투포인터_문자열 알고리즘(Two Pointer Algorithmn) >>
     - 정렬된 배열에서
     - 두개의 포인터를 사용하여 
     - 특정 조건을 만족하는 요소를 찾는 데 사용되는 알고리즘
