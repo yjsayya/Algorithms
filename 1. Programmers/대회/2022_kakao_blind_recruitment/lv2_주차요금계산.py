@@ -30,7 +30,7 @@ def solution(fees, records):
             c, d = time_li[i].split(":")
 
             total_time += (int(c) * 60 + int(d)) - (int(a) * 60 + int(b))
-        # 2-2. 요금 계산
+        # 2-2. 알고리즘. 요금 계산
         if total_time <= fees[0]:
             car_totalfee[car] = fees[1]
         else:

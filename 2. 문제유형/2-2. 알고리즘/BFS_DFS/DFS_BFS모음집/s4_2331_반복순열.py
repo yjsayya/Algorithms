@@ -23,7 +23,7 @@ def recur(n):
 
     if next in rmvList:
         return
-    # 2-2. 순열의 다음 수로 처리하기
+    # 2-2. 알고리즘. 순열의 다음 수로 처리하기
     if next not in numList:
         numList.add(next)
     else:

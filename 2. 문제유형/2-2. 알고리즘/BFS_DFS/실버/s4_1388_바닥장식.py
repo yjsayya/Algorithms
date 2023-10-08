@@ -32,7 +32,7 @@ for i in range(n):
 
 print(cnt1)
 
-# 2-2. '|' 개수 확인
+# 2-2. 알고리즘. '|' 개수 확인
 for j in range(m):
     pre = '/'
     for i in range(n):
