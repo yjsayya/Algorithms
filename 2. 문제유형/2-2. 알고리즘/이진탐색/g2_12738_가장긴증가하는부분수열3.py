@@ -28,5 +28,6 @@ while left < right:
     if diff < arr[right] - arr[left]:
         right += 1
     else:
+        pass
 
 # 10 10 20 10 30

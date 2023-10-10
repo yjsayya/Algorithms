@@ -5,81 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s4_1620_나는야포켓몬마스터이다솜.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s5_7785_회사에있는사람.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/트리의부모찾기11725.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/구현/g4_14502_연구소.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/이진탐색/g2_12738_가장긴증가하는부분수열3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/2023_scon_숭실대/s3_28116_선택정렬의이동거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/수학/b5_10807_개수세기.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/수학/b5_2738_행렬덧셈.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/수학/s5_7568_덩치.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/g4_20166_문자열지옥에빠진호석.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s2_19583_싸이버개강총회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_11478_서로다른부분문자열의개수.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_16165_걸그룹마스터준석이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_9375_패션왕신해빈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s4_17219_비밀번호찾기.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1. Programmers/대회/2022_kakao_blind_recruitment/lv2_주차요금계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/대회/2022_kakao_blind_recruitment/lv2_주차요금계산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/1032_명령프롬프트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/1032_명령프롬프트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/10798_세로읽기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/10798_세로읽기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/10820_문자열분석.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/10820_문자열분석.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/10824_네수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/10824_네수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/1157_단어공부.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/1157_단어공부.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/11720_숫자의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/11720_숫자의합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/1181_단어정렬.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/1181_단어정렬.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/1316_그룹단어체커.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/1316_그룹단어체커.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/14425_문자열집합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/14425_문자열집합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/4999_아!.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/4999_아!.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/9012_괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/9012_괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/9251_LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/9251_LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/b5_2744_대소문자바꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/b5_2744_대소문자바꾸기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g4_4074_약어.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g4_4074_약어.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g4_9935_문자열폭발.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g4_9935_문자열폭발.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g5_1013_contact.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g5_1013_contact.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g5_12904_A와B.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g5_12904_A와B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g5_2866_문자열잘라내기.Py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g5_2866_문자열잘라내기.Py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g5_5430_AC.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g5_5430_AC.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/g5_9251_LCS.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/g5_9251_LCS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/p2_2401_최대문자열붙여넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/p2_2401_최대문자열붙여넣기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/s2_1541_잃어버린괄호.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/s2_1541_잃어버린괄호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/s3_20365_블로그2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/s3_20365_블로그2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열/문자열 관련.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/문자열/문자열 관련.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/스택큐/p4_3111_검열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/스택큐/p4_3111_검열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/10026_적록색약.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/10026_적록색약.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/11724_연결요소의개수구하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/11724_연결요소의개수구하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/2023_신기한소수찾기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/2023_신기한소수찾기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/BFS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/BFS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/g3_1600_말이되고픈원숭이.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/g3_1600_말이되고픈원숭이.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/g4_2573_빙산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/g5_7569_토마토_3차원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/g5_7576_토마토_2차원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_1389_케빈베이컨의6단계법칙.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_1389_케빈베이컨의6단계법칙.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_1697_숨바꼭질.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_1697_숨바꼭질.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_2178_미로탐색.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_2178_미로탐색.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_2468_안전영역.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_2468_안전영역.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_2667_단지번호붙이기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_2667_단지번호붙이기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s1_5014_스타트링크.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s1_5014_스타트링크.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s2_10971_외판원순회2.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s2_10971_외판원순회2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s2_11724_연결요소의개수.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s2_11724_연결요소의개수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s2_1260_DFS와BFS(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s2_1260_DFS와BFS(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s2_2644_촌수계산.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s2_2644_촌수계산.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s3_10451_순열사이클.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s3_10451_순열사이클.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s3_2606_바이러스.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s3_2606_바이러스.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/DFS_BFS모음집/s4_2331_반복순열.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/DFS_BFS모음집/s4_2331_반복순열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/NDB_미로탈출(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/NDB_미로탈출(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/NDB_음료수얼려먹기(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/NDB_음료수얼려먹기(1).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/실버/s4_1388_바닥장식.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/실버/s4_1388_바닥장식.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/BFS_DFS/트리의부모찾기11725.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/알고리즘/binary_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/구현/g5_21608_상어초등학교.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/구현/g5_21608_상어초등학교.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/b3_10162_전자레인지.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/b3_10162_전자레인지.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g1_8980_택배.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g1_8980_택배.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g2_10775_공항.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g2_10775_공항.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g2_3109_빵집.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g2_3109_빵집.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g3_13904_과제.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g3_13904_과제.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g5_1092_배.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g5_1092_배.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g5_13164_행복유치원.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g5_13164_행복유치원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/gold/g5_1461_도서관.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/gold/g5_1461_도서관.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/silver/s2_16953_A-&gt;B.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/silver/s2_16953_A-&gt;B.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/silver/s3_13305_주유소.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/silver/s3_13305_주유소.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/silver/s3_1783_병든나이트.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/silver/s3_1783_병든나이트.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2/그리디/silver/s5_1439_뒤집기.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/그리디/silver/s5_1439_뒤집기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/2023_scon_숭실대/b1_28115_등차수열의합.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/2023_scon_숭실대/b1_28115_등차수열의합.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_13414_수강신청.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_13414_수강신청.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/이진탐색/g2_12738_가장긴증가하는부분수열3.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/이진탐색/g2_12738_가장긴증가하는부분수열3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,51 +66,7 @@
       <recent name="$PROJECT_DIR$/2. 문제유형/그리디/silver" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.s4_1620_나는야포켓몬마스터이다솜">
-    <configuration name="b5_10807_개수세기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/수학" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/수학/b5_10807_개수세기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b5_2738_행렬덧셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/수학" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/수학/b5_2738_행렬덧셈.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.prac">
     <configuration name="b5_2744_대소문자바꾸기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,6 +82,116 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. boj/문자열/b5_2744_대소문자바꾸기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="g4_20166_문자열지옥에빠진호석" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/g4_20166_문자열지옥에빠진호석.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. 상황판" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/prac.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2_19583_싸이버개강총회" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s2_19583_싸이버개강총회.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s3_11478_서로다른부분문자열의개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_11478_서로다른부분문자열의개수.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s3_16165_걸그룹마스터준석이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s3_16165_걸그룹마스터준석이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,79 +223,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s4_1620_나는야포켓몬마스터이다솜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s4_1620_나는야포켓몬마스터이다솜.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s5_7568_덩치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/수학" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/수학/s5_7568_덩치.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s5_7785_회사에있는사람" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬/s5_7785_회사에있는사람.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s4_1620_나는야포켓몬마스터이다솜" />
-        <item itemvalue="Python.s5_7785_회사에있는사람" />
-        <item itemvalue="Python.s5_7568_덩치" />
-        <item itemvalue="Python.b5_10807_개수세기" />
-        <item itemvalue="Python.b5_2738_행렬덧셈" />
+        <item itemvalue="Python.prac" />
+        <item itemvalue="Python.g4_20166_문자열지옥에빠진호석" />
+        <item itemvalue="Python.s2_19583_싸이버개강총회" />
+        <item itemvalue="Python.s3_11478_서로다른부분문자열의개수" />
+        <item itemvalue="Python.s3_16165_걸그룹마스터준석이" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +282,7 @@
       <workItem from="1695687351753" duration="32472000" />
       <workItem from="1695906816753" duration="1680000" />
       <workItem from="1696520622859" duration="5785000" />
-      <workItem from="1696774899029" duration="5030000" />
+      <workItem from="1696774899029" duration="17727000" />
     </task>
     <servers />
   </component>
@@ -379,7 +314,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/algo$lv0_.coverage" NAME="lv0_구슬을나누는경우의수 Coverage Results" MODIFIED="1680768754858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programmers/lv0" />
     <SUITE FILE_PATH="coverage/Algorithms$lv2_.coverage" NAME="lv2_수식최대화 Coverage Results" MODIFIED="1690742659984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/대회/2020kakao인턴십" />
-    <SUITE FILE_PATH="coverage/Algorithms_python$s4_1620_.coverage" NAME="s4_1620_나는야포켓몬마스터이다솜 Coverage Results" MODIFIED="1696780132989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s4_1620_.coverage" NAME="s4_1620_나는야포켓몬마스터이다솜 Coverage Results" MODIFIED="1696781559301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms$Problem6.coverage" NAME="Problem6 Coverage Results" MODIFIED="1691826579527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ETC/woowa" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_16953_A__B.coverage" NAME="s2_16953_A-&gt;B Coverage Results" MODIFIED="1685861223363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$prac.coverage" NAME="prac Coverage Results" MODIFIED="1693577066242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
@@ -409,9 +344,11 @@
     <SUITE FILE_PATH="coverage/algo$1316_.coverage" NAME="1316_그룹단어체커 Coverage Results" MODIFIED="1680797996204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$b3_10162_.coverage" NAME="b3_10162_전자레인지 Coverage Results" MODIFIED="1685858341922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$s3_13305_.coverage" NAME="s3_13305_주유소 Coverage Results" MODIFIED="1685863927671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s2_19583_.coverage" NAME="s2_19583_싸이버개강총회 Coverage Results" MODIFIED="1696789078658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/algo$10798_.coverage" NAME="10798_세로읽기 Coverage Results" MODIFIED="1680850490649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$10930_SHA256.coverage" NAME="10930_SHA256 Coverage Results" MODIFIED="1689673365026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/algo$11399_ATM.coverage" NAME="11399_ATM Coverage Results" MODIFIED="1681107232241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/문제유형/탐욕알고리즘" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s3_16165_.coverage" NAME="s3_16165_걸그룹마스터준석이 Coverage Results" MODIFIED="1696785614206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms$3.coverage" NAME="3 Coverage Results" MODIFIED="1688663291420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.ProjectEuler" />
     <SUITE FILE_PATH="coverage/Algorithms$Problem4.coverage" NAME="Problem4 Coverage Results" MODIFIED="1691864101810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. ETC/woowa" />
     <SUITE FILE_PATH="coverage/Algorithms$g4_2573_.coverage" NAME="g4_2573_빙산 Coverage Results" MODIFIED="1693874883920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
@@ -436,12 +373,15 @@
     <SUITE FILE_PATH="coverage/Algorithms_python$b5_10807_.coverage" NAME="b5_10807_개수세기 Coverage Results" MODIFIED="1696777390268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/수학" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_10971_2.coverage" NAME="s2_10971_외판원순회2 Coverage Results" MODIFIED="1692951731033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$9012_.coverage" NAME="9012_괄호 Coverage Results" MODIFIED="1680799667201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s3_9375_.coverage" NAME="s3_9375_패션왕신해빈 Coverage Results" MODIFIED="1696784333763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms$g4_4074_.coverage" NAME="g4_4074_약어 Coverage Results" MODIFIED="1685696429633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_7576__2.coverage" NAME="g5_7576_토마토_2차원 Coverage Results" MODIFIED="1693826204249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/algo$14425_.coverage" NAME="14425_문자열집합 Coverage Results" MODIFIED="1680847086880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$lv2_.coverage" NAME="lv2_주식가격 Coverage Results" MODIFIED="1695794728062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv2" />
     <SUITE FILE_PATH="coverage/algo$10824_.coverage" NAME="10824_네수 Coverage Results" MODIFIED="1680851134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$p2_2401_.coverage" NAME="p2_2401_최대문자열붙여넣기 Coverage Results" MODIFIED="1695784424074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/해쉬" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$g4_20166_.coverage" NAME="g4_20166_문자열지옥에빠진호석 Coverage Results" MODIFIED="1696789085217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$prac.coverage" NAME="prac Coverage Results" MODIFIED="1696829086767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1693971988922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/algo$4999__.coverage" NAME="4999_아! Coverage Results" MODIFIED="1681101274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$b1_28115_.coverage" NAME="b1_28115_등차수열의합 Coverage Results" MODIFIED="1696521233139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/2023_scon_숭실대" />
@@ -454,12 +394,15 @@
     <SUITE FILE_PATH="coverage/Algorithms_python$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1696526286527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판/알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms_python$g4_14502_.coverage" NAME="g4_14502_연구소 Coverage Results" MODIFIED="1696776940117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/구현" />
     <SUITE FILE_PATH="coverage/Algorithms_python$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1695796239798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s3_11478_.coverage" NAME="s3_11478_서로다른부분문자열의개수 Coverage Results" MODIFIED="1696786378219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/algo$11047_.coverage" NAME="11047_동전개수의최솟값구하기 Coverage Results" MODIFIED="1680885641071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/탐욕알고리즘" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s3_13414_.coverage" NAME="s3_13414_수강신청 Coverage Results" MODIFIED="1696783194059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms$lv2__1_.coverage" NAME="lv2_삼각달팽이(월간코드챌린지시즌1) Coverage Results" MODIFIED="1691148394307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)" />
     <SUITE FILE_PATH="coverage/Algorithms$b2_2747_.coverage" NAME="b2_2747_피보나치수 Coverage Results" MODIFIED="1690188629541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/algo$1181_.coverage" NAME="1181_단어정렬 Coverage Results" MODIFIED="1681259465786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms$s5_1439_.coverage" NAME="s5_1439_뒤집기 Coverage Results" MODIFIED="1685859340842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
     <SUITE FILE_PATH="coverage/Algorithms$g5_1461_.coverage" NAME="g5_1461_도서관 Coverage Results" MODIFIED="1685953674831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/그리디" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$s4_17219_.coverage" NAME="s4_17219_비밀번호찾기 Coverage Results" MODIFIED="1696783531844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_5397_.coverage" NAME="s2_5397_키로거 Coverage Results" MODIFIED="1689673137530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj" />
     <SUITE FILE_PATH="coverage/Algorithms$PCCP_2_3_.coverage" NAME="PCCP_2_3번_카페확장 Coverage Results" MODIFIED="1692142440001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Programmers/대회/PCCP_모의고사_2" />
     <SUITE FILE_PATH="coverage/algo$1032_.coverage" NAME="1032_명령프롬프트 Coverage Results" MODIFIED="1681259255364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
