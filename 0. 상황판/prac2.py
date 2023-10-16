@@ -1,30 +1,35 @@
 
 
+
 import sys
-sys.setrecursionlimit(10*6)
+sys.setrecursionlimit(10**6)
 
-n = int(sys.stdin.readline().strip())
+n = int(sys.stdin.readline().rstrip())
+paper = [list(map(int,sys.stdin.readline().split())) for _ in range(n)]
 
-tree = [[] for _ in range(n+1)]
-visited = [False] * (n+1)
-ans = [-1] * (n+1)
+ans = [0,0,0]
+def recur(row,column,n):
+    global ans
 
-for _ in range(2, n+1):
-    a,b = map(int,sys.stdin.readline().split())
-    tree[a].append(b)
-    tree[b].append(a)
+    ele = paper[row][column]
+    for r in range(row, row+n):
+        for c in range(column, column+n):
+            if ele != paper[r][c]:
+                for i in range(3):
+                    for j in range(3):
+                        recur(row+i*n//3, column+j*n//3, n//3)
+                return
+    # 1. 종료 조건
+    if ele == -1:
+        ans[0] += 1
+    elif ele == 0:
+        ans[1] += 1
+    else:
+        ans[2] += 1
 
+    return
 
-def dfs(x):
-    visited[x] = True
-    if not tree[x]:
-        return
-    for idx in tree[x]:
-        if not visited[idx]:
-            dfs(idx)
-            ans[idx] = x
+recur(0,0,n)
 
-dfs(1)
-
-for idx in range(2,n+1):
-    print(ans[idx])
+for _ in ans:
+    print(_)

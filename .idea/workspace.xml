@@ -5,12 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/g4_2448_별찍기11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s2_1780_종이의개수.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s2_2630_색종이만들기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/골프존뉴딘그룹/problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/골프존뉴딘그룹/problem2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/골프존뉴딘그룹/problem3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/0. 상황판/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2. 문제유형/s1_1074_Z.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s1_1074_Z.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0. 상황판/prac2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/구현/10871_x보다작은수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/구현/11382_꼬마정민.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/완전탐색/2231_분해합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/완전탐색/2798_블랙잭.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/완전탐색/4673_셀프넘버.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/완전탐색/7568_덩치.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/완전탐색/한수1065.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/11047_동전개수의최솟값구하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/11399_ATM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/14916_거스름돈.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/1715_카드정렬하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/1744_수를묶어서최댓값만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/NDB2_큰수의법칙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/NDB3_숫자카드게임.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3. ETC/3.문제유형/탐욕알고리즘/greedy.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +70,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀" />
       <recent name="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열" />
       <recent name="$PROJECT_DIR$/2. 문제유형/투포인터" />
       <recent name="$PROJECT_DIR$/2. 문제유형/2-2" />
       <recent name="$PROJECT_DIR$/2. 문제유형/자료구조" />
-      <recent name="$PROJECT_DIR$/2. 문제유형/그리디/silver" />
     </key>
   </component>
   <component name="RunManager" selected="Python.prac">
@@ -108,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1_1629_곱셈" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prac2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +131,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0. 상황판" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s1_1629_곱셈.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0. 상황판/prac2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1_2447_별찍기10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="s1_2447_별찍기_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +158,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s1_2447_별찍기10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s1_2447_별찍기_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,10 +237,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.prac" />
-        <item itemvalue="Python.s1_2447_별찍기10" />
+        <item itemvalue="Python.prac2" />
+        <item itemvalue="Python.s1_2447_별찍기_10" />
         <item itemvalue="Python.s2_2630_색종이만들기" />
         <item itemvalue="Python.s2_1780_종이의개수" />
-        <item itemvalue="Python.s1_1629_곱셈" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +297,8 @@
       <workItem from="1696897630926" duration="2768000" />
       <workItem from="1697019011042" duration="5040000" />
       <workItem from="1697029978909" duration="10752000" />
-      <workItem from="1697088921105" duration="8528000" />
+      <workItem from="1697088921105" duration="10595000" />
+      <workItem from="1697327249535" duration="2786000" />
     </task>
     <servers />
   </component>
@@ -484,7 +500,7 @@
     <SUITE FILE_PATH="coverage/algo$10824_.coverage" NAME="10824_네수 Coverage Results" MODIFIED="1680851134828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$p2_2401_.coverage" NAME="p2_2401_최대문자열붙여넣기 Coverage Results" MODIFIED="1695784424074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/Algorithms_python$g4_20166_.coverage" NAME="g4_20166_문자열지옥에빠진호석 Coverage Results" MODIFIED="1696789085217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
-    <SUITE FILE_PATH="coverage/Algorithms_python$prac.coverage" NAME="prac Coverage Results" MODIFIED="1697248691437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$prac.coverage" NAME="prac Coverage Results" MODIFIED="1697299189601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1693971988922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/algo$4999__.coverage" NAME="4999_아! Coverage Results" MODIFIED="1681101274243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/boj/문자열" />
     <SUITE FILE_PATH="coverage/Algorithms_python$b1_28115_.coverage" NAME="b1_28115_등차수열의합 Coverage Results" MODIFIED="1696521233139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/2023_scon_숭실대" />
@@ -497,7 +513,7 @@
     <SUITE FILE_PATH="coverage/Algorithms$.coverage" NAME="대수학 Coverage Results" MODIFIED="1690772833582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms_python$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1696526286527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판/알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms_python$g4_14502_.coverage" NAME="g4_14502_연구소 Coverage Results" MODIFIED="1696776940117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/구현" />
-    <SUITE FILE_PATH="coverage/Algorithms_python$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1697023851883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$prac2.coverage" NAME="prac2 Coverage Results" MODIFIED="1697298432493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms_python$s3_11478_.coverage" NAME="s3_11478_서로다른부분문자열의개수 Coverage Results" MODIFIED="1696786378219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
     <SUITE FILE_PATH="coverage/algo$11047_.coverage" NAME="11047_동전개수의최솟값구하기 Coverage Results" MODIFIED="1680885641071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/탐욕알고리즘" />
     <SUITE FILE_PATH="coverage/Algorithms_python$s3_13414_.coverage" NAME="s3_13414_수강신청 Coverage Results" MODIFIED="1696783194059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/해쉬" />
