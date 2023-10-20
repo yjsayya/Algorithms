@@ -4,22 +4,24 @@
     bfs 풀이 
 """
 
-# 일단 다른 사람 풀이 보고 넘겼는데 dfs문제는 진짜 연습 좀 해야겠다
+# 1. DFS 풀이
+import sys
+sys.setrecursionlimit(10**5)
 def dfs(numbers, target, depth):
     ans = 0
+    # 1. 종료 조건
     if depth == len(numbers):
         return 1 if sum(numbers) == target else 0
-    else:
-        ans += dfs(numbers, target, depth + 1)
-        numbers[depth] *= -1
-        ans += dfs(numbers, target, depth + 1)
+    # 2. 문제에 대한 정의
+    ans += dfs(numbers, target, depth + 1)
+    numbers[depth] *= -1
+    ans += dfs(numbers, target, depth + 1)
 
-        return ans
+    return ans
 
 def solution_dfs(numbers, target):
     answer = dfs(numbers, target, 0)
     return answer
-
 
 
 # 2. BFS 풀이

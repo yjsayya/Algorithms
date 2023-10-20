@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57e739-778f-4058-baa9-7eef7bd7d90a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2_게임맵최단거리.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmers/lv3/lv3_네트워크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1. Programmers/lv3/lv3_여행경로.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-1. 자료구조/스택큐/s4_1158_요세푸스문제.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/BFS_DFS/s1_1926_그림.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/구현/s5_1475_방번호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)/lv2_마법의엘리베이터.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률40%이상)/lv2_무인도여행.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0. 상황판/prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/0. 상황판/prac.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_방문길이.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률50%이상)/lv2_방문길이.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_타겟넘버.py" beforeDir="false" afterPath="$PROJECT_DIR$/1. Programmers/lv2/lv2(정답률60%이상)/lv2_타겟넘버.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +63,29 @@
       <recent name="$PROJECT_DIR$/2. 문제유형/2-1.자료구조/문자열" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lv2_게임맵최단거리">
+  <component name="RunManager" selected="Python.Problem1">
+    <configuration name="Problem1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="b5_2744_대소문자바꾸기" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,28 +197,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1_2447_별찍기_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="algo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀/s1_2447_별찍기_10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="s3_20365_블로그2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="algo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Problem1" />
         <item itemvalue="Python.lv2_게임맵최단거리" />
         <item itemvalue="Python.s1_1926_그림" />
         <item itemvalue="Python.prac" />
         <item itemvalue="Python.prac2" />
-        <item itemvalue="Python.s1_2447_별찍기_10" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +287,8 @@
       <workItem from="1697327249535" duration="3612000" />
       <workItem from="1697424069486" duration="5280000" />
       <workItem from="1697598328989" duration="9913000" />
-      <workItem from="1697619609231" duration="8225000" />
+      <workItem from="1697619609231" duration="10684000" />
+      <workItem from="1697784922192" duration="6565000" />
     </task>
     <servers />
   </component>
@@ -415,6 +414,81 @@
           <line>32</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학/Problem1.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -507,6 +581,7 @@
     <SUITE FILE_PATH="coverage/Algorithms_python$g1_8980_.coverage" NAME="g1_8980_택배 Coverage Results" MODIFIED="1694481169782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/그리디/gold" />
     <SUITE FILE_PATH="coverage/Algorithms$s2_11724_.coverage" NAME="s2_11724_연결요소의개수 Coverage Results" MODIFIED="1692949332865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. boj/BFS_DFS/DFS_BFS모음집" />
     <SUITE FILE_PATH="coverage/Algorithms_python$s2_1780_.coverage" NAME="s2_1780_종이의개수 Coverage Results" MODIFIED="1697085811502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-2. 알고리즘/재귀" />
+    <SUITE FILE_PATH="coverage/Algorithms_python$Problem1.coverage" NAME="Problem1 Coverage Results" MODIFIED="1697810736848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/2-3.코딩테스트/진학" />
     <SUITE FILE_PATH="coverage/Algorithms_python$g5_1092_.coverage" NAME="g5_1092_배 Coverage Results" MODIFIED="1695601229179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2. 문제유형/그리디/gold" />
     <SUITE FILE_PATH="coverage/Algorithms$.coverage" NAME="대수학 Coverage Results" MODIFIED="1690772833582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판" />
     <SUITE FILE_PATH="coverage/Algorithms_python$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1696526286527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. 상황판/알고리즘" />
