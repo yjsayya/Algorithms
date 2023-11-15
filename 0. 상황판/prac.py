@@ -1,16 +1,49 @@
+import sys
+from collections import deque
 
-def solution(a,b):
-    cal = {
-        1:31, 2:29, 3:31, 4:30, 5:31,
-        6:30, 7:31, 8:31, 9:30, 10:31,
-        11:30, 12:31
-    }
-    days = {
-        1 : "FRI", 2: "SAT", 3: "SUN", 4: "MON",
-        5: "TUE", 6: "WED", 0: "THU"
-    }
-    tot = 0
-    for i in range(1,a):
-        tot += cal[i]
+n,m,v = map(int,sys.stdin.readline().split())
 
-    return days[(tot+b)%b]
+graph = dict()
+for _ in range(m):
+    i,j = map(int,sys.stdin.readline().split())
+    if i in graph: graph[i].append(j)
+    else: graph[i] = [j]
+    if j in graph: graph[j].append(i)
+    else: graph[j] = [i]
+
+for ele in graph:
+    graph[ele].sort()
+
+visited_dfs = [False] * (n+1)
+visited_bfs = [False] * (n+1)
+ans_dfs = []
+ans_bfs = []
+
+def bfs(graph, visited, v, ans,n):
+    dq = deque([v])
+    while dq:
+        if len(ans) == n:
+            break
+        ele = dq.popleft()
+        visited[ele] = True
+        ans.append(ele)
+        for i in graph[ele]:
+            if not visited[i]:
+                dq.append(i)
+    return ans
+
+def dfs(graph, visited, ele, ans):
+    visited[ele] = True
+    ans.append(ele)
+    for i in graph[ele]:
+        if not visited[i]:
+            dfs(graph, visited, i, ans)
+    return ans
+
+print(' '.join(map(str, dfs(graph,visited_dfs,v,ans_dfs))))
+print(' '.join(map(str, bfs(graph,visited_bfs,v,ans_bfs,n))))
+
+a = "123"
+a.replace("1","a")
+
+print(a)
