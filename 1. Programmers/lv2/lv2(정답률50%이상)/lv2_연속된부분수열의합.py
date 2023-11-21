@@ -1,11 +1,10 @@
 ''''''
 """
     ** 투포인터_문자열 문제
-    
     sum(sequence[left:right]) --> 이걸로 계속 하니깐 시간초과가 나네 
     하나씩 더해주는걸로 바꿔야했다
     
-    
+    -- 오름차순으로 정렬 되어있다는 것도 잘 봐야한다!!
 """
 
 
@@ -25,48 +24,36 @@ def solution(sequence, k):
             right += 1
             left += 1
 
-    li = sorted(li, key=lambda x: (x[1] - x[0]))
+    return sorted(li, key=lambda x: (x[1] - x[0]))[0]
 
-    return li[0]
-
-# 두번째 풀이 -
-def solution2(sequence,k):
-    li = []
-    left,right = 0,0
-    tot = sequence[left]
-
-    while left <= right <= len(sequence):
-        if tot < k:
-            right += 1
-            tot += sequence[right]
-        elif tot > k:
-            left += 1
-            tot -= sequence[left]
-        else:
-            li.append([left,right])
-
-    li = sorted(li, key=lambda x: (x[1] - x[0]))
-    return li[0]
-
-
-def solution4(sequence, k):
-    answers = []
-    tot = 0
-    l = 0
-    r = -1
-
+def solution1(sequence, k):
+    ans = []
+    left, right = 0, 1
+    tot = sequence[left] + sequence[right]
+    length = len(sequence)
+    # 1. [0,0]인 경우 예외 처리
+    if sequence[left] == k:
+        return [0, 0]
+    # 2. 투포인터로 답 구하기
     while True:
         if tot < k:
-            r += 1
-            if r >= len(sequence):
+            right += 1
+            if right == length:
                 break
-            tot += sequence[r]
+            tot += sequence[right]
+        elif tot > k:
+            tot -= sequence[left]
+            left += 1
+            if left == length:
+                break
         else:
-            tot -= sequence[l]
-            if l >= len(sequence):
-                break
-            l += 1
-        if tot == k:
-            answers.append([l, r])
+            ans.append([left, right])
+            tot -= sequence[left]
+            left += 1
 
-    return sorted(answers,key=lambda x: (x[1] - x[0], x[0]))[0]
+            right += 1
+            if right == length or left == length:
+                break
+            tot += sequence[right]
+
+    return sorted(ans, key=lambda x: (x[1] - x[0], x[0]))[0]

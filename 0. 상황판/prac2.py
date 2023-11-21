@@ -1,26 +1,52 @@
-import sys
-from itertools import permutations as perm
+def solution(n):
+    # 1. 삼각 달팽이 좌표 만들기
+    matrix = [[0]*n for _ in range(n)]
+    x,y,num = -1,0,1
+    for i in range(n):
+        for j in range(i,n):
+            if i % 3 == 0:
+                x += 1
+            elif i % 3 == 1:
+                y += 1
+            else:
+                x -= 1
+                y -= 1
+            matrix[x][y] = num
+            num += 1
+    # 2. ans 배열에 넣고 return 하기
+    idx = 0
+    ans = list()
+    for i in range(n):
+        for j in range(n):
+            if matrix[i][j] == 0:
+                break
+            ans[idx] = matrix[i][j]
+            idx += 1
 
-n = int(sys.stdin.readline())
+    return ans
 
-li = list(map(int,sys.stdin.readline().split()))
-print(li)
-maxi = max(li)
-new_li = list(perm(li,len(li)))
 
-check = False
+def solution(n):
+    # 1. 삼각 달팽이 좌표 만들기
+    matrix = [[0] * n for _ in range(n)]
+    x, y, num = -1, 0, 1
+    for i in range(n):
+        for j in range(i, n):
+            if i % 3 == 0:
+                x += 1
+            elif i % 3 == 1:
+                y += 1
+            else:
+                x -= 1
+                y -= 1
+            matrix[x][y] = num
+            num += 1
+    # 2. ans 배열에 넣고 return 하기
+    ans = list()
+    for i in range(n):
+        for j in range(n):
+            if matrix[i][j] == 0:
+                break
+            ans.append(matrix[i][j])
 
-cnt = 0
-for lis in new_li:
-    isCnt = False
-    for idx in range(1,len(lis)):
-        if lis[idx] == maxi:
-           check = True
-        if not check and lis[idx-1] > lis[idx]:
-            break
-        elif check and lis[idx-1] < lis[idx]:
-            break
-    if isCnt:
-        cnt += 1
-
-print(cnt)
+    return ans
